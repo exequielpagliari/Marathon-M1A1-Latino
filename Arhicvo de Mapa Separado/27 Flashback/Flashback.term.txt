@@ -1,0 +1,222 @@
+;
+#TERMINAL 0
+#UNFINISHED
+#LOGON 1600
+$C3Marathon Introduction: The Comic. By Michio Hashimoto$C0
+#PICT 1700
+$C1Verificación del sistema en lanzadera Mirata completa. Todos los sistemas son normales.
+
+Secuencia iniciada, apagado de amplificadores principales
+
+Comenzar procedimientos para entrar en órbita alrededor del Marathon.$C5
+#PICT 1701
+$C4"...300 años desde que me embarqué en esa nave colonia de regreso al Sistema Solar..."
+#PICT 1702
+$C4"...He recorrido un largo camino... LA HUMANIDAD ha recorrido un largo camino..."$C1
+#PICT 1703
+$C3...risillas...
+#PICT 1704
+$C3...?...
+#PICT 1705
+$C1Se detectó un mal funcionamiento en la bahía de acoplamiento de Marathon 1$C0
+
+$C4¿Tenemos contacto visual?$C0
+#PICT 1706
+$C4QUEE MIER***A!!$C0
+#LOGOFF 1600
+$C3Por favor sígame...
+#INTRALEVEL TELEPORT 127
+#ENDTERMINAL 0
+;
+#TERMINAL 1
+#UNFINISHED
+#LOGON 1600
+$C3Marathon Introducción: El Comic. Parte II
+#PICT 1707
+ 
+#PICT 1708
+$C4Woh!$C0
+#PICT 1709
+$C4¡Maldita sea Mirata!
+
+¡¿Qué diablos está pasando?!
+#PICT 1710
+$C1Directivas preventivas de cambio de rumbo recibidas de Durandal, la IA del Marathon. Entrando en curso de colisión con Marathon.
+#PICT 1711
+$C4Woh, woh woh!
+#PICT 1712
+$C4Durandal! ¡Esa IA bugueada!
+#PICT 1713
+$C4Quien sea o lo que sea este payaso puede ser ...
+
+Metete conmigo, hermano mayor ...
+
+... y ERES TOSTADA!
+#LOGOFF 1600
+$C3Por favor sígame...
+#INTRALEVEL TELEPORT 114
+#ENDTERMINAL 1
+;
+#TERMINAL 2
+#UNFINISHED
+#LOGON 1600
+$C3Marathon Introducción: El Comic. Parte III
+#PICT 1714
+$C3...Risillas...$C0
+
+Este es Durandal, la IA Marathon's...
+#PICT 1715
+Déjame mostrarte algo $C3...risita...$C0 divertido.
+#PICT 1716
+ 
+#PICT 1717
+$C4MALDITA SEAAA!
+#PICT 1718
+ 
+#PICT 1719
+ 
+#LOGOFF 1600
+$C3Por favor sígame...
+#INTRALEVEL TELEPORT 132
+#ENDTERMINAL 2
+;
+#TERMINAL 3
+#UNFINISHED
+#LOGON 1600
+$C3Marathon Introducción: El Comic. Parte IV
+#PICT 1720
+$C4Hmm...
+
+Extraterrestres y una AI rebelde, ¿eh? ¿Qué voy a hacer al respecto?
+#PICT 1721
+$C6Sé un hombre, hijo mío ... ¡Un hombre del que puedo estar orgulloso ...!
+
+Tener orgullo ... y honor ...
+#PICT 1722
+$C4Papá...
+#PICT 1723
+$C4Bueno, supongo que he decidido qué hacer...
+#PICT 1724
+ 
+#PICT 1725
+$C4Woh...!
+#LOGOFF 1600
+$C3Por favor sígame...
+#INTRALEVEL TELEPORT 119
+#ENDTERMINAL 3
+;
+#TERMINAL 4
+#UNFINISHED
+#LOGON 1600
+$C3Marathon Introducción: El Cómic. Parte V
+#PICT 1726
+ 
+#PICT 1727
+ 
+#PICT 1728
+$C4MUUUY cerca de un encuentro, ¿eh?
+#PICT 1729
+$C3...!
+#PICT 1730
+$C4Vaya, un humano...
+#PICT 1731
+$C2¡¡ESTÁN POR TODAS PARTES!!$C0
+
+$C4¡Oye! ¡Aguanta!$C0
+#PICT 1732
+$C4AH!!$C0
+#LOGOFF 1600
+$C3Por favor sígame...
+#INTRALEVEL TELEPORT 125
+#ENDTERMINAL 4
+;
+#TERMINAL 5
+#UNFINISHED
+#LOGON 1600
+$C3Marathon Introducción: El Comic. Parte VI
+#PICT 1733
+ 
+#PICT 1734
+ 
+#PICT 1735
+ 
+#PICT 1736
+$C4Aaaaaaa!
+#PICT 1737
+ 
+#LOGOFF 1600
+$C3Por favor sígame...
+#INTRALEVEL TELEPORT 69
+#ENDTERMINAL 5
+;
+#TERMINAL 6
+#UNFINISHED
+#LOGON 1600
+$C3Marathon Introducción: El Comic. Parte VII
+#PICT 1738
+$C4HA...
+#PICT 1739
+$C4HAA...
+#PICT 1740
+$C4HAAA!!
+#PICT 1741
+ 
+#PICT 1742
+$C4Bastante frágil... Los patrones de ataque también son predecibles.
+#PICT 1743
+$C4...pero...
+#PICT 1744
+$C4¡Parece que aún está lejos de terminar!
+#PICT 1745
+$C3Continuará en Marathon...
+
+
+
+
+
+
+
+(Agradecimientos especiales a Hamish Sinclair)$C0
+#LOGOFF 1600
+$C3Ahora Volvemos A Nuestra Invasión Regular
+#INTERLEVEL TELEPORT 8
+#ENDTERMINAL 6
+;
+#TERMINAL 7
+#UNFINISHED
+#LOGON 1600
+$C3Terminal de Acceso Restringido<26.97.820.74>
+#INFORMACIÓN
+
+
+
+
+
+
+
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+
+Hay un cargador de oxígeno y un buffer de patrones a tu izquierda.
+
+Te sugiero que los use antes de continuar.
+
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+
+
+
+
+
+
+
+
+El nivel al que estas a punto de ingresar es una recreación de Marathon Zero, la versión alfa de Marathon que se mostró en la Exposición MacWorld de San Francisco en enero de 1994. Los niveles de física de los modelos del nivel se ha cambiado para emular las restricciones de Marathon Alpha, es decir, el jugador no podrá correr, ni mirar hacia arriba y hacia abajo, ni mover su torso hacia la izquierda o hacia la derecha, entre otras cosas. Tres disparos de pistola serán suficientes para matar a un cazador y un disparo de plasma tendrá el mismo efecto, aunque la pistola de plasma disparará lentamente. El comportamiento del cazador también se ha modificado para que coincida con la velocidad de disparo y la velocidad del alienígena original.
+
+A diferencia del alfa, el jugador podrá verificar el mapa de arriba, y hay un par de cargadores y teletransportadores repartidos por el nivel. Para obtener más información, visite el sitio web de Marathon's Story.
+
+REB
+
+Domingo, Sep 29, 2002, 4:49 PM
+#LOGOFF 1600
+$C3Terminal de Acceso Restringido<26.97.820.74>
+#INTERLEVEL TELEPORT 29
+#ENDTERMINAL 7

@@ -1,0 +1,48 @@
+;
+#TERMINAL 0
+#UNFINISHED
+#LOGON 1600
+Terminal de Acceso Público 47-a<102.21.521.146>
+#INFORMACION
+Hey tu, mirando a través de mi bifurcación de recursos:
+
+Debido a limitaciones de tiempo, muchas de las partes interesantes de Marathon (es decir, los textos, las pantallas de capítulos, etc.) no se cifraron como lo hice en el pasado con Minotaur o Pathways. Esto también facilita la globalización.
+
+Entonces, cuando leas todos los terminales de la computadora desde  ResEdit o descubras cómo se ve la pantalla final, no publiques en comp.sys.mac.games o AOL o donde a donde sea que llames casa en la autopista de información y arruines las cosas para todos. Ve a buscarlo en el juego y dile a la gente cómo llegar allí.
+
+También me gustaría decir que Greg y yo solo hemos dormido 15 horas en los últimos siete días. <grin>
+
+¡Espero que ya estén trabajando en editores de niveles y descubriendo el formato del archivo " Physics Model"! Los programadores competentes que se toman en serio hacer cualquier tipo de complementos a Marathon deberían enviarme un correo electrónico vía internet a jon3@quads.uchicago.edu para obtener ayuda y (tal vez) archivos de encabezado.
+
+Gracias, Jason (Dec. 18, 1994 1:57am.)
+
+PD. En caso de que te lo estés preguntando, nunca podrás encontrar la copia pirata de Copland en Marathon. Ese elemento solía ser un arma que sacamos tarde en el desarrollo (la copia de Windows NT fue su munición), pero que encontrará su camino en la Actualización de red para Marathon.
+#LOGOFF 1600
+Terminal de Acceso Público 47-a<102.21.521.146>
+#ENDTERMINAL 0
+;
+#TERMINAL 1
+#UNFINISHED
+#LOGON 1600
+Terminal de Acceso Público 56-c<93.53.211.53>
+#INFORMACION
+¿Tú otra vez?
+
+Dos años y medio después de la codificación salvaje Blitzkrieg que creó Marathon, estoy de vuelta aquí eliminando la protección del número de serie para el lanzamiento de la trilogía. Sin fuente.
+
+Tenía esta idea realmente tonta en ese entonces de que tendría que esperar el juego hasta el 1 de abril de 1995 antes de habilitar una segunda capa de verificación del número de serie.
+
+Decir ah. Después de hackear tres diálogos de cada una de las versiones 68k y PowerPC, con solo MacsBug para iluminar el camino, me alegro de no haber tenido tiempo para hacerlo.
+
+Ahora Myth está a la orden del día y apuntamos a un lanzamiento a principios de otoño. El próximo verano no se volvera esas ardientes y vaporosas noches sin aire acondicionado, ordenando pizza y bebiendo Powdered Gatorade para mantenerse hidratado, como lo fue en 1995, pero imagino que nos mantendremos ocupados de alguna manera.
+
+Tengo la sensación de que volverá a nevar cuando tenga tiempo libre nuevamente.
+
+Entonces. No hay números de serie. Siempre me molestó que el tiempo de vida publico de Marathon terminara cuando se perdiera la última tarjeta de registro o lista de números de serie. Esperemos que esta sea la versión que jugaré dentro de cincuenta años bajo una emulación en un portátil jodidamente rápido del grosor de una hoja de papel que pasea a mi perro, me viste todas las mañanas y muele mi comida porque no me quedan dientes . Y espero que no se esté ejecutando Windows.
+
+Hasta luego,
+Jason (Marzo 17, 1997 4:39pm)
+#LOGOFF 1600
+Terminal de Acceso Público 56-c<93.53.211.53>
+#INTERLEVEL TELEPORT 16
+#ENDTERMINAL 1

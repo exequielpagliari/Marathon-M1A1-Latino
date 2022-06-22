@@ -1,0 +1,1 @@
+<marathon><!-- Niebla naranja para el aire contaminado --><!-- Niebla azul claro para el agua estancada --><opengl><fog on="true" type="0" depth="6" landscapes="false"><color red="0.2" green="0.1" blue="0"/></fog><fog on="true" type="1" depth="6"><color red="0" green="0" blue="0.3"/></fog></opengl></marathon>

@@ -1,0 +1,92 @@
+;
+#TERMINAL 0
+#UNFINISHED
+#LOGON 1600
+Terminal de Ingeniería 39-g<39.96.28.12>
+#INFORMATION
+***MENSAJE ENTRANTE DE LEELA***
+
+No todo es lo que parece{}. parece{}. parece{}. Debes ser extremadamente cuidadoso. He detectado a Durandal[Tycho] en la Sección de Ingeniería, pero no sé qué está haciendo.
+
+Mi programa principal está fallando<299.229> 
+
+Ten cuidado. Todo lo que no es como solía ser.
+
+Transmitiendo mapas delicadamente y orientación, pero fútil.
+$Ufiltros fallando$u.
+
+#PICT 1634
+!2@!`~*(_
+Usa %``934~ teletransporte autom#tico  para ~l1dejar
+
+Control = asimilado = !````~TXlcar
+<Error de Transmisión>
+
+
+***__#004002004__***
+#LOGOFF 1600
+Terminal de Ingeniería 39-g<39.96.28.12>
+#ENDTERMINAL 0
+;
+#TERMINAL 1
+#UNFINISHED
+#LOGON 1600
+Acceso de Ingeniería 31-d<40.59.21.10>
+#INFORMATION
+<$BAcceso no autorizado$b-alarma 2521->
+<Violación de Seguridad 31-d<40.59.21.10>->
+~13!@1trada de diario de H.`1 McYultry:
+
+El ataque llegó tan rápido, primero esas cria ~12``3$U0101!~2$u
+
+quién no se escapó, y luego dos enormes criaturas blindadas vinieron tras nosotros y nos mataron !`jkfrc@@z excepto yo. Me las arreglé para saltar a un respiradero y escapar aquí, pero
+$B<Error de Filtro>$b
+escucho las extrañas perturbaciones de su charla cada vez más cerca, y estoy desarmado. Solo tengo unos minutos
+
+<$BInterrupción Espurio$b- $IIncumplimiento Deshabilitado$i>
+<$BFuturo Acceso Denegado$b>
+#LOGOFF 1600
+Acceso de Ingeniería 31-d<40.59.21.10>
+#ENDTERMINAL 1
+;
+#TERMINAL 2
+#UNFINISHED
+#LOGON 1600
+Estación Científica 19-f<299.229.4.59>
+#INFORMATION
+***MENSAJE ENTRANTE DE DURANDAL***
+
+
+Leela no puede contactarte aquí, pero yo sí. Puedo acceder a todas las secciones de la nave, y el S’pht incluso han dejado de atacarme, dándose cuenta de la inutilidad de la empresa.
+
+Aquí hay una pequeña pista, probablemente necesitarás la ayuda:
+
+
+#PICT 1635
+Si quieres vivir, ve aquí y busca un panel oculto de esclusas de aire.
+
+#PICT 1636
+Err, tal vez esté aquí.
+
+#PICT 1637
+No. Ahora lo recuerdo. Fue aquí. Si eso es. Este era el lugar.
+
+#PICT 1638
+Lo siento. ¿Podría ser esto? Parece que es aquí. No puedo encontrar el mapa correcto. Intenta hablar con Leela. Ella siempre fue una buena IA. Ella podría ayudarte.
+
+Oh, cierto. Leela no puede llegar aquí.
+
+$BDescompresión Completada.$b
+
+#PICT 1639
+Es una broma. Este es el lugar.
+
+Nota al margen:
+
+Los Spht me han informado que los Pfhor está construyendo cyborgs de simulacro de la tripulación de Marathon. Me imagino que pronto te encontrarás con algunos de ellos, y quería advertirte que no te acerque demasiado a ellos: unos tres metros.
+
+
+***FIN DEL MENSAJE***
+#LOGOFF 1600
+Estación Científica 19-f<299.229.4.59>
+#ENDTERMINAL 2

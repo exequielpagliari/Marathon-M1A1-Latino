@@ -1,0 +1,77 @@
+;
+#TERMINAL 0
+#UNFINISHED
+#LOGON 1600
+Terminal de Acceso Protegida 5-b<299.12.923.59>
+#INFORMATION
+***MENSAJE ENTRANTE DE LEELA***
+
+Acabo de terminar un examen superficial de los registros de sensores de luz, infrarrojos y radar de Marathon. He determinado que la nave alienígena debe tener una velocidad más rápida que la luz porque no he encontrado ningún registro de una nave que ingrese al Sistema Tau Ceti. Considerando lo extensos que son los sensores de Marathon, sería casi imposible ocultar una nave tan grande como la del Pfhor, que tiene casi dos kilómetros de largo.
+
+Con este conocimiento, enviar una transmisión de velocidad de la luz al Sol puede ser inútil, pero es la única forma posible de advertir a la Tierra de una raza alienígena hostil. $BDebemos$b intentarlo.
+
+
+Cuando los extraterrestres atacaron inicialmente, toda la Estación de Carga Estelar G-4 sufrió una descompresión explosiva, dejando toda la estación en el vacío.
+
+Como el área está al vacío, deberás reponer tu suministro de oxígeno. Hay suministro de oxígeno en el centro de la estación.
+
+#PICT 1631
+Aquí es donde estás ahora.
+
+El relé secundario debe reiniciarse manualmente. El conjunto de parabólicas está en la esquina superior izquierda (del mapa) de la estación de aterrizaje para tomar el sol G4.
+
+#PICT 1632
+
+Este es el conjunto de parabólicas. Una vez que lo alcances, reinicia los cuatro interruptores de control.
+
+#PICT 1633
+Procede a la terminal en este lugar, y lo transportaré fuera de la estación.
+
+
+Las puertas del área no funcionan correctamente, por lo que no sé cuál es la mejor ruta hacia el conjunto de parabólicas. Tendrás que encontrarlo tú mismo.
+
+***FIN DEL MENSAJE***
+#LOGOFF 1600
+Terminal de Acceso Protegida 5-b<299.12.923.59>
+#ENDTERMINAL 0
+;
+#TERMINAL 1
+#UNFINISHED
+#LOGON 1600
+Terminal de Acceso Público<74.39.299.591>
+#INFORMATION
+***MENSAJE ENTRANTE DE LEELA***
+
+No has restablecido todos los controles. Es imperativo que avisemos a la Tierra.
+
+Encuentra los controles y actívalos.
+
+***FIN DEL MENSAJE***
+#LOGOFF 1600
+Terminal de Acceso Público<74.39.299.591>
+#END
+#FINISHED
+#LOGON 1600
+Terminal de Acceso Público<74.39.299.591>
+#INFORMATION
+***MENSAJE ENTRANTE DE LEELA***
+
+Lo has hecho bien. He enviado un mensaje a la Tierra. Envié toda la información que tengo sobre los Pfhor: su comportamiento; su tecnología. El mensaje llegará en noventa y dos años.
+
+Ha habido un ataque veloz en la Sección de Ingeniería. Los Pfhor han traído tropas más pesadas, y los destacamentos de seguridad en esa sección de la nave están siendo sobrepasados.
+
+La reciente alto en la batalla debe haber sido un esfuerzo de reorganización. Debemos derrotar a los Pfhor mediante algún tipo de subterfugio, ya que me temo que estamos condenados si continuamos encontrándolos en la batalla. Sus recursos parecen ilimitados, y tengo razones para creer que puede haber otras naves Pfhor en sistemas cercanos.
+ 
+Te estoy enviando a la Sección de Ingeniería para rescatar el destacamento de seguridad. Tendrás que despejar el área de Aliens.
+
+Teletranspórtate cuando estés listo.
+
+***FIN DEL MENSAJE***
+
+
+$B***INICIANDO PROCESO DE TELETRANSPORTACIÓN***
+***TRANSPORTE CUANDO ESTÉS LISTO***
+#LOGOFF 1600
+Terminal de Acceso Público<74.39.299.591>
+#INTERLEVEL TELEPORT 9
+#ENDTERMINAL 1

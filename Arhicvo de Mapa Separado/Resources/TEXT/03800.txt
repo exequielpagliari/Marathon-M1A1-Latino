@@ -1,0 +1,1 @@
+<marathon><!-- No Hay Niebla --><opengl><fog on="false"></fog></opengl></marathon>

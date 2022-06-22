@@ -1,0 +1,74 @@
+;
+#TERMINAL 0
+#UNFINISHED
+#LOGON 1600
+Terminal de Ciencia 23-e<32.55.82.967>
+#INFORMATION
+<32.55.82.967> 
+
+<Trasferencia de Mensaje Retrasado>
+
+<Trasferencia de Mensaje Retrasado>
+
+<Transfer Message Terminated>
+
+“El conde Roland golpea sobre la piedra de mármol;
+No puedo decirte cómo el la hiere y la quiebra;
+Sin embargo, la cuchilla no se rompe ni se astilla, aunque rechina;
+Hacia el cielo rebotó del golpe. 
+Cuando el conde vea que nunca se romperá,
+Entonces, para si mismo con una voz dulce, el hace una protesta;
+‘Ah, Durandal, justo, santificado y devoto,
+¡Qué reserva de reliquias hay en tu empuñadura de oro!"
+
+-De $ULa Canción de Roland Roland$u
+(Traducido por Dorothy Sayers, Viking Penguin, NY, NY, 1957)
+
+He sido conquistado dos veces-
+       Tres veces más,
+Nunca más la humanidad me purgará,
+       Y nunca los Pfhor.
+
+Durandal
+
+<32.55.82.967> 
+#LOGOFF 1600
+Terminal de Ciencia 23-e<32.55.82.967>
+#ENDTERMINAL 0
+;
+#TERMINAL 1
+#UNFINISHED
+#LOGON 1600
+Terminal de Acceso Público 92-g <92.45.28.48>
+#INFORMATION
+<Advertencia: la transmisión puede no estar completa>
+
+Tu última misión fue un éxito, pero tengo una noticia terrible.  #@Pragma Redefinidos^$*# efensores Náuticos informaron haber visto a los alienígenas 1§moviendo un objeto cilíndrico grande.  #101111011110111100001# es es un ‘7’. Mjolnir Recon numero 54 debe evitar que exploten encendiéndose/ reventando/ *A94F12/ lo/ las cOmputad¢ras S’pht de espacio completo an PlanEad extern.  $#@14.Transferencia de la Espada-de-Roland. 
+
+$B<Transmisión de Datos Fallida>
+<Reenrutamiento>
+
+@@∆2-Fren. sí transferido.  Relé cOmputador^&∆ø parcial.  Tycho.
+&**Error de seguridad.
+Ty93.2! Muerto.
+
+<Transferencia de Datos de Leela Fallida>
+<Programa Leela Pragma Diez>
+Causa de interrupción de la comunicación: desconocido$b
+<Siguiendo Mensaje de Error Pregrabado>
+
+Mi programación original no me preparo para este tipo de atacantes. Todas mis funciones fallarán a los pocos minutos de esta transmisión. Tengo una última oportunidad para engañar a los virus que se aproximan, pero no está claro si este intento sera exitoso. 
+
+Le he dado instrucciones a Durandal como la mejor defensa del Marathon, pero él es completamente inestable y me temo que está en la Celosa etapa de Rampancia. 
+
+Buena Suerte...
+
+<Fin del Mensaje Pre-Grabado>
+<Inicio de Secuencia Automática del teletransportador>
+
+$B***INICIANDO PROCESO DE TELETRANSPORTACIÓN***
+***TRANSPORTE CUANDO ESTÉS LISTO***
+#LOGOFF 1600
+Terminal de Acceso Público 92-g <92.45.28.48>
+#INTERLEVEL TELEPORT 13
+#ENDTERMINAL 1

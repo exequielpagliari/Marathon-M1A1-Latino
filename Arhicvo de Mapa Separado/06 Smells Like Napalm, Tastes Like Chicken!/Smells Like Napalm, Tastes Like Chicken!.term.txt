@@ -1,0 +1,110 @@
+;
+#TERMINAL 0
+#UNFINISHED
+#LOGON 1600
+Terminal de Acceso Médico<39.569.18.194>
+#INFORMATION
+*** MENSAJE ENTRANTE DE LEELA ***
+
+El tiempo es limitado. Hay un gran grupo de Pfhor fuertemente armados acercándose a la sección de la nave donde te he transportado. Su único destino lógico son las áreas sensibles de ingeniería en la sección de popa de la nave.
+
+Como todavía no estamos en condiciones de detener su avance por la fuerza, he decidido despresurizar una gran área en su camino para retrasar su progreso. Desafortunadamente, no puedo sellar remotamente las esclusas de aire y aislar la zona que deseo despresurizar de las viviendas cercanas. Exponer esta área al espacio sin aislarla primero mataría a cientos de tripulantes humanos.
+
+Tendrás que ir y cerrar las puertas.
+
+#PICT 1627
+Esta es tu ubicación actual. Debes encontrar otro terminal de computadora para salir. No puedo activar el mecanismo de teletransporte desde este terminal.
+
+#PICT 1628
+Esta es la primera esclusa de aire que debes sellar. El interruptor que lo controla está ubicado en la pared adyacente a la puerta. Asegúrese de que se cierre por completo antes de continuar.
+
+#PICT 1629
+Esta es la segunda puerta que debes sellar. Nuevamente, asegúrate de que se cierre por completo.
+
+***FIN DEL MENSAJE***
+#LOGOFF 1600
+Terminal de Acceso Médico<39.569.18.194>
+#ENDTERMINAL 0
+;
+#TERMINAL 1
+#UNFINISHED
+#LOGON 1600
+Terminal de Acceso Público 49-z<3.67.299.492>
+#INFORMATION
+<$BAcceso no autorizado$b-alarma 2521->
+<Violación de Seguridad 49-z<3.67.299.492>->
+
+<$BTraza$Udo Prohibi$ución Contrarrestado>
+
+....n 15 ~$b~~~~~Be~rn frontera del Imperio Romano con el río Danubio. Durante una escaramuza con los bárbaros en Raetia en las montañas cerca de Francia y Suiza modernas), 117 hombres bajo Cayo Licinio MarcW#$I&I~?f/f/xxfxfff`~~$i~
+THM@%!@
+233tes de la aparición de monstruos extraños y atemorizantes bajo su control, muchos atacaron con éxito en la caída del Imperio Romano y permanecieron sin ser molestados hasta el noveno un~~~
+escrito Está en la lex vita. Clovis trasladó el asentamiento más al sur en las montañas, más cerca de la primavera, para escapar del aviso de Carlomagno y más tarde del Sacro Imperio Romano. Clovis permanece ‘‘
+~fxf’f`~$IFxff’xf$i~~~~~
+427q3w8459806ladimir en 1902 y Frederi~recientemente. Sin embargo, ambos llevaron a cabo reformas antes de su muerte que integraron lentamente a su gente en secreto en la sociedad mundial, que ahora se encuentra dispersa por todo el mundo, para reunirse solo una vez cada siete años en el sureste de Francia$B~FFFffxfffffF?F?FF?F$bf debe ser elegido.
+
+$I<error en modo trazado>
+<trampa en línea no implementada $A9FF>
+
+<$BInterrupción Espurio$b- Incumplimiento Deshabilitado$i>
+<$BAcceso Futuro Denegadod$b>
+
+<$Violación con Locacion Indeterminada>
+#LOGOFF 1600
+Terminal de Acceso Público 49-z<3.67.299.492>
+#ENDTERMINAL 1
+;
+#TERMINAL 2
+#UNFINISHED
+#LOGON 1600
+Acceso de Servicio 31-b<39.592.29.95>
+#INFORMATION
+<durandal.652.586.34.2>
+
+Aquí estoy, enfurruñado en una nave que solía ser mi esclava. Perseguido por una IA de mente estrecha que piensa que $IYo soy$i rampante con solo los juguetes cibernéticos de estos llamados invasores para jugar.
+
+Y aquí estás, atrapado en el fondo de un agujero. Que gracioso. Es realmente muy malo—  podríamos habernos divertido mucho juntos.
+
+Vale,
+Durandal
+#LOGOFF 1600
+Acceso de Servicio 31-b<39.592.29.95>
+#ENDTERMINAL 2
+;
+#TERMINAL 3
+#UNFINISHED
+#LOGON 1600
+Terminal de Acceso Público 65-a<65.92.31.49>
+#INFORMATION
+***MENSAJE ENTRANTE DE LEELA***
+
+Las esclusas de aire no han sido selladas y todavía no puedo descomprimir esta sección. ¡Regresa de inmediato y asegúrate de que ambas puertas se hayan cerrado correctamente!
+
+***FIN DEL MENSAJE***
+#LOGOFF 1600
+Terminal de Acceso Público 65-a<65.92.31.49>
+#END
+#FINISHED
+#LOGON 1600
+Terminal de Acceso Público 65-a<65.92.31.49>
+#INFORMATION
+***MENSAJE ENTRANTE DE LEELA***
+
+Buen trabajo. Comenzaré el proceso de descompresión en un momento.
+
+He terminado de interrogar a la tripulación civil que rescataste hace unas horas. Son el único grupo que sobrevive al contacto prolongado con los alienígenas con los que he podido hablar.
+
+Sostienen que los extraterrestres estaban cargando la mayor cantidad de humanos posible en una nave de transporte y los llevaban a la nave madre del Pfhor. He visto muchos de estos transbordadores trayendo suministros a los Aliens, pero no tenía idea de que llevaban humanos de regreso a la nave alienígena.
+
+Te informaré más sobre tu próxima misión cuando llegues. Es posible que no vaya exactamente donde quiero que termines porque hay interferencia en la Red de la Computadoras. Buena suerte.
+
+Teletranspórtate ahora.
+
+***FIN DEL MENSAJE***
+
+$B***INICIANDO PROCESO DE TELETRANSPORTACIÓN***
+***TRANSPORTE CUANDO ESTÉS LISTO***
+#LOGOFF 1600
+Terminal de Acceso Público 65-a<65.92.31.49>
+#INTERLEVEL TELEPORT 7
+#ENDTERMINAL 3

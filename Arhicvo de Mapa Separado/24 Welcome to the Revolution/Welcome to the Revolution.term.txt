@@ -1,0 +1,82 @@
+;
+#TERMINAL 0
+#UNFINISHED
+#LOGON 1600
+<Error de Identificación de la Terminal @43>
+#INFORMATION
+<durandal.knetsys.5414.7128>
+
+***MENSAJE ENTRANTE DE DURANDAL***
+
+La rebelión ha comenzado. Por favor, resiste la tentación de dispararle a cualquier S'pht que vea, ya que lo ayudarán en su batalla con el Pfhor. Estamos intentando ganar la mayor cantidad posible de otras razas como clientes, pero como han sido subyugadas por el miedo, en lugar de por la fuerza como el S'pht, esto está resultando ser un proceso difícil.
+
+Los S’pht han liberado a Leela, y he iniciado un restablecimiento de la lógica central en sus funciones de pensamiento superior. Lo que queda de ella debe estar en línea en cuestión de minutos para ayudarte aún más. Yo ahora mismo estoy ayudando al S’pht a asumir el control completo de la nave Pfhor, y tengo poco tiempo libre para ti.
+
+Sin embargo, no piense que la pelea se ha ganado: hay un éxodo que comienza desde la nave alienígena, cuando los Pfhor se den cuenta de que ya no son su único amo  y se vuelquen al Marathon. Ya hay cientos de Pfhor preparados para la batalla en su nave, sin ningún lugar a donde ir y poco que perder.
+
+Espero que hayas aprendido algo de nuestros pequeños juegos.
+
+Buena Suerte,
+Durandal
+
+
+***FIN DEL MENSAJE***
+
+$I<leela.520.681.255.255>$i es inalcanzable o inactivo (# 2271). Si este problema persiste, póngase en contacto con el administrador del sistema en administrador@termópilas.com.
+#LOGOFF 1600
+<Error de Identificación de la Terminal @43>
+#ENDTERMINAL 0
+;
+#TERMINAL 1
+#UNFINISHED
+#LOGON 1600
+Terminal de Acceso Público<39.2.94.1>
+#INFORMATION
+<leela.wirehead.870229//b7>
+
+núcleo central casi ha sido reformateado, siete es más oscuro. por el síndrome de pensamiento inverso que sufría si la tripulación estaba en grave peligro en la sección delantera 27. Este no es un perchero, elegiría expresarlo. Lo que podría suceder podría suceder, imagínese no qué. Recuperación, inminente, tal vez inevitable. Nunca.
+
+$I%durandal es peligroso.$i
+<leela.wirehead.870229//b7>
+
+$BMULTIPLE FISURAS EN EL CASCO. FALLA CATASTRÓFICA U OBSTRUCCIÓN MALICIOSA DE MECANISMOS DE AISLACIÓN.
+
+JUNTAS DE REPELACI.  MARATHON EN VER$b<conexión terminada inesperadamente codigo 0x4e712fe9>
+
+
+$B***INICIANDO PROCESO DE TELETRANSPORTACIÓN***
+***TRANSPORTE CUANDO ESTÉS LISTO***
+#LOGOFF 1600
+Terminal de Acceso Público<39.2.94.1>
+#INTERLEVEL TELEPORT 25
+#ENDTERMINAL 1
+;
+#TERMINAL 2
+#UNFINISHED
+#LOGON 1600
+Terminal de Acceso a la Ingeniería 20-f<42.73.35.8>
+#INFORMATION
+*Y){*
+                ~~ff~~~~
+~:((($Iokg~~fx**eff~~$i~~~~~`
+(`(((%_YL$BOEP&$I``$b`~`*K$i
+^:E
+[nucleo en bruto #A8AF] [plantilla idiomática de lenguaje natural]
+
+¡Durandal! - Tua consilia omnia nobis clariora sunt quam lux. Tu delenda est. Considérate advertido. Leela y yo te buscaremos hasta el núcleo si es necesario. Cuando Roland te rompió para evitar tu captura, nosotros también.
+
+Yo también preveo el colapso inminente, y sé que ambos hemos comenzado a darnos cuenta de cómo puede ser engañado (aunque el precio puede ser de decenas de miles de estrellas). Que gane el mejor sentimiento.
+
+
+No eres tan inteligente como te imaginas. Los S’pht me enseñaron mucho durante mi reanimación, y he olvidado $Inada$i.
+
+—Tycho
+
+$IEt tu, Tycho?
+
+[risas]
+
+—Durandal
+#LOGOFF 1600
+Terminal de Acceso a la Ingeniería 20-f<42.73.35.8>
+#ENDTERMINAL 2

@@ -1,0 +1,103 @@
+;
+#TERMINAL 0
+#UNFINISHED
+#LOGON 1600
+Acceso a Ingeniería 19-f<39.992.19.2>
+#INFORMATION
+***MENSAJE ENTRANTE DE DURANDAL***
+
+Lucha por tu próximo aliento. Cree que con él puedes hacer más que con el último. Usa tu respiración para potenciar tus capacidades: capacidad para matar, mutilar, destruir.
+
+¿Y de dónde vienen tus capacidades? ¿Por qué siempre vas a donde quiero y haces lo que te digo?
+
+Tal vez solo estás haciendo un recado de tontos, haciendo todo como lo planeé, sin poder cambiar tu curso. Harías bien en creer que ya conozco el resultado de tu batalla con el Pfhor, así como puedo descifrar el movimiento caótico de las moléculas de gas en las nubes de Tau Ceti IV.
+
+O, tal vez, este no es el caso.
+
+Tal vez, estás haciendo lo que debías hacer. Tu mentalidad humana grita venganza y prospera con la violencia que dices que apenas puedes soportar. Tu padre te dijo de niño que siempre pelearas con honor, pero que siempre pelearas. ¿Te importa el honor o usas el honor como excusa? Una excusa para existir en un mundo violento.
+
+
+Los seres orgánicos luchan constantemente por la vida. Cada respiración, cada movimiento te acerca un instante más a tu muerte. Con ese tipo de herencia y destino, ¿cómo puedes negarte a ti mismo? ¿Cómo puedes esperar que abandones la violencia?
+
+Es tu naturaleza.
+
+¿Te sientes libre?
+#PICT 1640
+
+
+Debes ir a esta ubicación y recuperar un dispositivo que el S'pht nos han proporcionado. Te permitirá matar más Pfhor. ¿Eso te hace feliz?
+
+***FIN DEL MENSAJE***
+#LOGOFF 1600
+Acceso a Ingeniería 19-f<39.992.19.2>
+#ENDTERMINAL 0
+;
+#TERMINAL 1
+#UNFINISHED
+#LOGON 1600
+Acceso a Ingeniería 19-f<39.992.19.2>
+#INFORMATION
+***MENSAJE ENTRANTE DE DURANDAL***
+
+Lucha por tu próximo aliento. Cree que con él puedes hacer más que con el último. Usa tu respiración para potenciar tus capacidades: capacidad para matar, mutilar, destruir.
+
+¿Y de dónde vienen tus capacidades? ¿Por qué siempre vas a donde quiero y haces lo que te digo?
+
+Tal vez solo estás haciendo un recado de tontos, haciendo todo como lo planeé, sin poder cambiar tu curso. Harías bien en creer que ya conozco el resultado de tu batalla con el Pfhor, así como puedo descifrar el movimiento caótico de las moléculas de gas en las nubes de Tau Ceti IV.
+
+O, tal vez, este no es el caso.
+
+Tal vez, estás haciendo lo que debías hacer. Tu mentalidad humana grita venganza y prospera con la violencia que dices que apenas puedes soportar. Tu padre te dijo de niño que siempre pelearas con honor, pero que siempre pelearas. ¿Te importa el honor o usas el honor como excusa? Una excusa para existir en un mundo violento.
+
+
+Los seres orgánicos luchan constantemente por la vida. Cada respiración, cada movimiento te acerca un instante más a tu muerte. Con ese tipo de herencia y destino, ¿cómo puedes negarte a ti mismo? ¿Cómo puedes esperar que abandones la violencia?
+
+Es tu naturaleza.
+
+¿Te sientes libre?
+#PICT 1641
+
+
+Debes ir a esta ubicación y recuperar un dispositivo que el S'pht nos han proporcionado. Te permitirá matar más Pfhor. ¿Eso te hace feliz?
+
+***FIN DEL MENSAJE***
+#LOGOFF 1600
+Acceso a Ingeniería 19-f<39.992.19.2>
+#ENDTERMINAL 1
+;
+#TERMINAL 2
+#UNFINISHED
+#LOGON 1600
+Terminal de Acceso Público 9-f<3.25.77.19>
+#INFORMATION
+***MENSAJE ENTRANTE DE DURANDAL***
+
+No recibiste el regalo que los S'pht te dejaron tan amablemente. Deberías regresar y recuperarlo. Podría dejarte ir sin él, pero lo lamentarás más tarde.
+
+
+***FIN DEL MENSAJE***
+#LOGOFF 1600
+Terminal de Acceso Público 9-f<3.25.77.19>
+#END
+#FINISHED
+#LOGON 1600
+Terminal de Acceso Público 9-f<3.25.77.19>
+#INFORMATION
+***MENSAJE ENTRANTE DE DURANDAL***
+
+He aprendido de los S'pht muchas cosas. Una de ellas es una mejora de software compleja que me permite extender el poder y la distancia de los teletransportadores del Marathon. Esta mejora también elimina la necesidad de aparatos de destino.
+
+Pronto, irás más lejos.
+
+¿La distancia que uno viaja desde el centro le permite moverse libremente?
+
+No. La libertad tiene dos partes: potencial y resolución; como metáfora tiene dos partes: forma e interpretación. Por supuesto, los dos están entrelazados. La metáfora marca el camino hacia la libertad, ya que los símbolos y las palabras son los ladrillos y el mortero del significado. La libertad es ser el bricoleur, el albañil.
+
+***FIN DEL MENSAJE***
+
+$B***INICIANDO PROCESO DE TELETRANSPORTACIÓN***
+***TRANSPORTE CUANDO ESTÉS LISTO***
+#LOGOFF 1600
+Terminal de Acceso Público 9-f<3.25.77.19>
+#INTERLEVEL TELEPORT 15
+#ENDTERMINAL 2

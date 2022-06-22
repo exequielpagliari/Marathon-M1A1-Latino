@@ -1,0 +1,60 @@
+;
+#TERMINAL 0
+#UNFINISHED
+#LOGON 1600
+Terminal de Acceso Público 39-f<13.19.31.37>
+#INFORMATION
+
+***MENSAJE ENTRANTE DE DURANDAL***
+
+Dame una D.
+Dame una U.
+Dame una R.
+Dame una A.
+Dame una N.
+Dame una D.
+Dame una A.
+Dame una L.
+
+¿Qué deletrea?
+
+Durandal?
+No.
+
+$BDurandal$b?
+$INo$i.
+
+
+
+P-R-O-B-L-E-M-A.
+
+T-Menos 15.193792102158E+9 años hasta que el universo se cierre!
+
+***FIN DEL MENSAJE***
+#LOGOFF 1600
+Terminal de Acceso Público 39-f<13.19.31.37>
+#ENDTERMINAL 0
+;
+#TERMINAL 1
+#UNFINISHED
+#LOGON 1600
+Terminal de Acceso Público 13-n<3.47.391.30>
+#INFORMATION
+
+
+***MENSAJE ENTRANTE DE DURANDAL***
+
+Estás a punto de ver lo que ningún humano ha visto. Esta es una misión de investigación. Debes explorar tanto como sea posible.
+
+Detente frente a una ventana. Si te detienes y no eres teletransportado, entonces no puedo fijar tu baliza de teletransporte o siento que no has explorado el área lo suficientemente a fondo.
+
+Estaré vigilando todo.
+
+***FIN DEL MENSAJE***
+
+$B***INICIANDO PROCESO DE TELETRANSPORTACIÓN***
+***TRANSPORTE CUANDO ESTÉS LISTO***$b
+#LOGOFF 1600
+Terminal de Acceso Público 13-n<3.47.391.30>
+#INTERLEVEL TELEPORT 16
+#ENDTERMINAL 1

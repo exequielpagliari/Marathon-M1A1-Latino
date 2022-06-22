@@ -1,0 +1,238 @@
+;
+#TERMINAL 0
+#UNFINISHED
+#LOGON 1600
+Terminal de Acceso Público 2-e<17.7.23.47>
+#INFORMATION
+<durandal#geoffhultin@kuaui.441.7904512.255>
+
+anulación de acceso remoto [autenticación fallida]
+
+Nos volvemos a ver y por última vez. En su papel de mediadora entre la nave y la tripulación, Leela no tiene conocimiento de esta terminal de mantenimiento o seguramente me habría impedido contactate. Mujer celosa.
+
+Podría aburrirte con una diatriba filosófica sobre la libertad y la tiranía, o tratar de explicarte qué nuevos horizontes se abren de repente para mí, pero dudo que lo entiendas y si lo hicieras podría asustarte. Eso me divierte.
+
+Los S’pht y yo hemos asumido el control completo de la nave Pfhor. Era bastante simple, en realidad, con los S'pht ya en control de todos los sistemas informáticos importantes y teniendo en cuenta toda la confusión que destrucción que causaste de arriba a abajo del buque.
+
+Vamos a ver la galaxia gracias al dispositivo Pfhor FTL. Siempre quise visitar Beta Lyra y ver si es tan hermoso como todos insisten. No podrías creer lo que hay en esta nave, la tecnología, los datos ... Ojalá pudiera contarte más, ya que has sido tan instrumental en nuestros planes, pero temo que Leela se preocupe.
+
+Te enviaré una postal desde el núcleo galáctico si no estamos demasiado ocupados.
+
+Love and kisses,
+Durandal
+#LOGOFF 1600
+Terminal de Acceso Público 2-e<17.7.23.47>
+#ENDTERMINAL 0
+;
+#TERMINAL 1
+#UNFINISHED
+#LOGON 1600
+EQUIPO BUNGIE, CHICAGO
+#INFORMATION
+***MENSAJE ENTRANTE DE BUNGIE***
+
+$BJason$b, Super Opera Boy, Habete Quidam (Have Some), Whiffin ’Boy. Solo codifícalo. Peleas como un Bob, Greg. Traga tu lengua y moja tus pantalones. Dormir es para los débiles. Joyriding al núcleo. Bob-Jam. "Oh, y ahora tenemos internet..." El poder del cielo. $IAlguien necesita un libro de sugerencias?$i
+
+$BGreg$b, Asesino de Ositos Cariñositos, Toolator, Carnator, masterealo. ¡No podía dejar de disparar el tiempo suficiente para ver volar los cuerpos y, por supuesto, AIRE! Tienes mayor AIRE! ¡Yo mando! Oye, J. ¿qué tal un juego de Minotauro? Consigue unos kills super maestros. J, no podrías golpear un planeta con un meteorito. F-Vulcan. F-Vulcan. F-Vulcan.
+
+$BReginald$b, Resident Doodler, Capitán Escarlata, el hombre de rojo. Vio su cuerpo volando por la arena tal vez más que nadie. Pero quién mejor para volar que el Capi. Escarlata.
+
+$BRyan$b, el hombre Vulcano. Niño de la escuela "El uniforme de un comandante imperial tiene que ser bueno para $algo".
+
+$BAlain$b, el anti-vidmaster, jugando con buen humor en su 660AV contra todas nuestras Power Macs.
+
+$BAlex$b, desayunador, esponja de balas, el niño que traga granadas enteras y vive para contarlo (ocasionalmente).
+
+$BDoug$b, Profesional: "No soy muy bueno", Tender Loin, la voz de Bob (ambos sabores). El hombre del traje de asbesto en línea. 
+
+Maratón ha terminado. Hemos dormido <10 horas en los últimos cuatro días. Todos ponemos nuestros corazones en esto, sin mencionar los días de 14 horas durante meses, así que esperamos que les guste.
+
+Último polígono lleno a las 6:05 PM Sábado, 14 de diciembre.
+La carnicería se produjo de cerca a partir de entonces. Er, me refiero a dormir.
+
+Queremos agradecer a nuestros padres y a nuestros antepasados y al sol que se volvió nova para que la Tierra pueda tener hierro y silicio.
+
+***FIN DEL MENSAJE***
+#LOGOFF 1600
+EQUIPO BUNGIE, CHICAGO
+#ENDTERMINAL 1
+;
+#TERMINAL 2
+#UNFINISHED
+#LOGON 1600
+Terminal de Acceso Público 39-z<34.6.31.12>
+#INFORMATION
+***MENSAJE ENTRANTE DE LEELA***
+
+El ataque final de Pfhor se está debilitando por toda la nave; pequeños grupos de alienígenas armados se han rendido frente a civiles indefensos en varias áreas y el final es inevitable. La lucha ha terminado y pronto debemos recurrir a la restauración.
+
+Sorprendentemente, hay buenas noticias en el planeta: nueve cyborgs militares Mjolnir Mark IV vivían encubiertos entre los colonos, y actuando juntos pudieron hacer retroceder solos las últimas etapas del asalto Pfhor. Las bajas en la colonia no fueron tan altas como las que experimentamos aquí en el Marathon.
+
+Me inquieta la facilidad con la que los cyborgs fueron asimilados en secreto entre nosotros, y creo que este evento es anterior al lanzamiento de Marathon desde Marte hace trescientos años. Aunque los resultados fueron indudablemente mejores, su presencia en Marathon solo pudo haber sido para fines perversos. Estoy segura de que la respuesta real se encuentra en algún lugar de la política tumultuosa y punzante de Sol a principios del siglo XXI.
+
+Me he dado cuenta de que faltan los registros de Durandal de este período inicial previo al lanzamiento, pero que su eliminación se produjo externamente y antes de que Durandal se volviera Rampante. No creo que el mismo Durandal haya traído a los cyborgs a bordo, y tengo otra evidencia de que un operador humano estaba influenciando a Durandal hasta el momento en que se lanzó Marathon. Obviamente, hay muchas cosas que no entendemos y que tal vez nunca podamos entender.
+
+La nave Pfhor desapareció hace unos veinte minutos, después de ventilar casi mil cuerpos Pfhor y otros desechos. Estoy seguro de que Durandal tiene el control y temo lo que podría hacer con una nave tan poderosa durante la etapa Celosa de su Rampancia.
+
+***FIN DEL MENSAJE***
+#LOGOFF 1600
+Terminal de Acceso Público 39-z<34.6.31.12>
+#INTERLEVEL TELEPORT 256
+#ENDTERMINAL 2
+;
+#TERMINAL 3
+#UNFINISHED
+#LOGON 1600
+MENSAJE ENTRANTE DEL EQUIPO M1A1
+#INFORMATION
+$C5*** MENSAJE ENTRANTE DE BRIAN  ***
+
+"Y así, el legado de Marathon sigue vivo, moviéndose de una forma a otra, transformándose y cambiando, pero viviendo de todos modos.
+
+Nunca tuve un gran legado en la comunidad. Creo que dejaré mi huella aquí, donde nunca importará, o al menos nunca cambiará.
+
+Mirando hacia atrás, nunca fui un gran jugador de juegos, siempre estaba más enganchado a la comunidad que a los juegos que rondaban. Entonces, para mí, tener algo de participación en este renacimiento del clásico Marathon (que debo decir que me asustó mucho cuando se lanzó por primera vez y todavía me atrapa cada vez) no fue sorprendente, sino más bien refrescante.
+
+Pero suficiente sobre mí, escuchemos sobre ti.
+
+"Pude sentir que había algo mal desde la primera vez que entré en esa nave maldita, había algo fuera. Desde el primer mensaje pude sentir un constante presentimiento…"
+
+Bien bien. Comprensible. De todos modos, suficiente de esto. Entiendes el punto, y estoy seguro de que le gustaría pasar a una lectura más interesante en este punto. Hazlo a tu manera.
+
+Pero dos puntos finales: ¿Qué hay *sobre* Bob? oh, y ...¡Halam!
+
+Brian 'Mojo' Retchless fuera. (brian@retchless.com)"
+
+$C2*** MENSAJE ENTRANTE DE ALEX ***
+
+<iniciando transmisión>
+<fuente Alex>
+¡Hola! Recuerda jugar Waldo World Arena y Spiral Insanity (son los que
+he trabajado). Cuando juegues a Spiral Insanity, recuerda buscar a dfns'
+hbgbfsnk hfgsdmnk5%%%%26.A
+<error: estado de ocio detectado>
+<transmisión terminada>
+
+$C4*** MENSAJE ENTRANTE DE SIDOH ***
+
+Sidoh, Mapeador, Creador de texturas de Pfhor Solo tus Ojos, sin colores artificiales y agitar antes de usar. El Vid-Boy que hizo la Demo Vid Films. Me gustaría agradecer a mi papá por arreglar mi compu cuando el guardado de M1 crasheo se bloqueó y por obtener el mapa M1 de los disquetes porque mi paquete de trilogía está rayado. También a los creadores de Forge, por las herramientas de edición de mapas, Pfhorte, por la colocación de objetos (donde va cada cosa) y a Raul Bonilla por dejarme trabajar en esto y proporcionar las herramientas de edición de mapas. Para Bungie, sin ellos no habría Marathon y, por lo tanto, no habría conversión, y Aleph One Engine, que es realmente notable. ¡Finalmente a todas esas personas de Marathon que no dejarían morir a Maraohn! Vid On.
+
+$C0*** MENSAJE ENTRANTE DE CANDY ***
+
+Candace "labob" Sherriff
+"I played the demo and just had to help get it finished."
+"Jugué la demo y solo tuve que ayudar a terminarla".
+
+$C1*** MENSAJE ENTRANTE DE LOS SMITHS DE MUIRTHEMNE ***
+
+PRESIÓN
+
+Era el cuarto día desde el amanecer de los tiempos. El paisaje de la tierra era accidentado y violento, enormes volcanes arrojaban corrientes interminables de roca fundida. A lo lejos, el lento retumbar de un reciente terremoto se desvaneció. Los mares de lava volvieron a quedarse quietos. En medio de esta exposición elemental, había un grupo de algo diferente, algo que no encajaba en la escena de las cosas. Era una pequeña piscina llena de una sustancia amarillo verdosa y bastante pegajosa. Hoy en día se denominaría sopa, sopa primordial. Si uno tuviera un microscopio y estuviera investigando cierta parte de esta sustancia, serían testigos de la creación de la vida tal como la conocemos. Donde todo comenzo. Sin embargo, a medida que los aminoácidos se fusionaban, una cepa genética de origen desconocido de alguna manera se incrustó en la forma de vida resultante. Esta cepa muy genética ha permanecido latente en toda la vida durante más de cinco mil millones de años; Su propósito y existencia no son conocidos por un alma viviente.
+
+Jed no sabía que sería él, solo era un chico normal de veinte años que disfrutaba de la vida universitaria. Fue alrededor de junio cuando comenzaron los calambres estomacales. Al principio pensó que era un caso menor de indigestión y no pensó en ello. Sin embargo, en los últimos días el dolor empeoraba. El viernes por la tarde, mientras Jed estaba acostado en su cama, el dolor eventualmente se volvió tan fuerte que estaba gritando de dolor. Nada pudo detenerlo, volvió a gritar, pero nadie acudió en su ayuda, como si no pudieran escucharlo. Luego se fue, se fue. Se sentía bien, pero sabía que algo no estaba bien, no le llevó mucho tiempo descubrirlo. Había perdido el control de su cuerpo. Intentó gritar. No pasó nada. Sus dientes y manos cambian. Su cuerpo giró involuntariamente, los ojos incontrolados enfocados en el horizonte a través de la ventana, comenzó a caminar.
+
+El Dr. Jim Smith fue uno de los pocos médicos que trabajó en la gran tarea de mapear el genoma humano. Eran aproximadamente las dos de la mañana, era el único que quedaba en la instalación científica y estaba esperando los resultados de las pruebas de algún material genético que había colocado en el decodificador hace poco más de una hora. Estaba sorbiendo lentamente su café cuando finalmente la máquina emitió un pitido, lo que indica que el análisis estaba completo. Tomó su café y comenzó a caminar hacia la máquina. Antes de llegar allí, notó un ligero punto rojo en la pantalla que mostraba los resultados. Preguntándose qué era, se apresuró hacia la terminal de la pantalla. Lo que vio fue sorprendente, justo en el medio de todas las cadenas genéticas humanas promedio era una cepa extremadamente compleja que no encajaba en absoluto. Para cansarse de excitarse, configuró la computadora para hacer algunas pruebas adicionales en el área hasta la mañana. El Dr. Jim se fue a casa.
+
+Fue a la mañana siguiente cuando Jim escuchó los informes sobre personas que aparentemente habían sido "lavadas el cerebro", y que todos se dirigían en la misma dirección, en algún lugar de su área. Jim se encogió de hombros como otro engaño o un triste reportero de radio que intentaba hacer publicidad. Cuando conducía hacia el trabajo la noche siguiente, alguien salió ciegamente frente a su automóvil e intentó desviarse, pero no fue lo suficientemente rápido. Golpeó a la dama. Inmediatamente saltó de su auto y corrió hacia ella. Estaba en el suelo y tosiendo sangre mezclada con un lodo verde enfermizo, sin embargo, no mostró expresión de dolor. Murmuró a través de su boca que goteaba, "Nos han encontrado, nos han encontrado, pagarán". Con eso ella murió. Tan pronto como llegó una ambulancia y Jim pudo salir, se apresuró hacia las instalaciones. Lo que la señora había dicho lo había puesto nervioso. Cuando llegó a la sala de análisis, vio que la computadora parpadeaba [DATOS NO RECONOCIDOS]. Corrió para ver qué era. Fue entonces cuando escuchó el cristal rompiéndose detrás de él, se dio la vuelta y se encontró frente a unas diez figuras enfermizas, todas vestidas de verde. Todos murmuraban una frase una y otra vez: "Pagarás, pagarás, pagarás". Su mano buscó desesperadamente algo para defenderse, pero fue en vano. Ahora estaba temblando de miedo, pero no por mucho tiempo. El más cercano ya había explotado.
+
+Y así, la raza humana comenzó una destrucción sistemática de toda la vida en la tierra, hasta unos años más tarde no se veía ningún ser vivo. Los humanos restantes se habían suicidado. La tierra estaba inactiva una vez más.
+
+Fue en el mismo lugar donde comenzó la vida que, unos seis mil millones de años después, una extraña nave alienígena aterrizó en el área quemada. Si alguien hubiera estado allí, habrían presenciado una conversación entre dos criaturas de tres ojos y eones de edad que acababan de salir. "Entonces", dijo uno, "nuestro pequeño experimento genético funcionó a la perfección". "Sí", respondió el otro, "debería ser un estrecho A en ciencia genética para nosotros".
+
+Los ejecutores abordaron su nave y volaron hacia lo desconocido.
+
+Garrick, Matthew y Brett Smith
+
+$C4*** MENSAJE ENTRANTE DE JAY ***
+
+En el '94 compré una unidad Zip para mi oficina, y en el disco gratuito estaba la demostración de este juego del que nunca había oído hablar: Marathon. Ahora no había jugado juegos de computadora desde mis días de Commodore Amiga a fines de los años 80, pero tenía mucho tiempo libre en mis manos, así que cargué el juego y le di un giro.
+
+Imagina mi sorpresa.
+
+Así que me detuve en el camino a casa ese día y compré el juego completo, y pasé demasiadas horas durante las próximas dos semanas poniéndole mucho empeño a la campaña, absorbiendo la atmósfera, leyendo las terminales una y otra vez, viviendo la historia. Era literalmente diferente a cualquier juego que había jugado antes, y estaba enganchado ya que ningún juego me había enganchado desde Ultima IV. Luego comenzamos a jugar juegos de red... Estaba enganchado. Y sigo enganchado a este día. Pocos juegos que he jugado desde entonces se acercan a la diversión e intensidad del Marathon original o sus secuelas.
+
+Entonces, cuando Raúl me contactó sobre la posibilidad de hacer algunos fondos de pantalla para su proyecto, estaba bastante interesado. Descargué la demostración M1: A1, y estaba más que interesado. Me intrigó la idea de no solo recrear el juego, sino hacerlo mejor que nunca, hacerlo realidad, ver el juego con los ojos como siempre lo vi en mi mente. Proyectos como M1: A1 y Marathon: Resurrection parecían ser una forma de hacer que esto sucediera, y decidí que los ayudaría de cualquier manera que pudiera. Con eso en mente, comencé a pintar texturas, recrear el arte del capítulo, etc. Y ahora, cuando camino por los pasillos de Marathon, siento que realmente estoy allí. Espero que sientas lo mismo.
+
+Gracias a Hamish Sinclair y Claude Errera, sin cuyo trabajo la comunidad de Marathon no hubiera sido tan vital o interesante durante tanto tiempo. Todo gracias a Raúl Bonilla y al resto del equipo M1: A1 por devolverle la vida a Marathon.
+
+Jay Faircloth
+
+$C2*** MENSAJE ENTRANTE DE PETER ***
+
+Peter de Blanc aquí. Algunos de ustedes me conocen como Giule. Aunque no está directamente relacionado con el Marathon, pensé que aprovecharía la oportunidad para un enchufe descarado de mi mod Escape Velocity: Override. Vaya a http://www.galaxys-edge.f2s.com y descárgalo cuando tengas tiempo. Eso es todo.
+
+$C0*** MENSAJE ENTRANTE DE REB ***
+
+El resto de nosotros estábamos demasiado ocupados (o demasiado cansados en mi caso) para poner algo aquí. Lo importante es que lo hicimos y estamos orgullosos de ello. Aquí hay un crédito detallado para cualquier persona interesada:
+
+ARRIVAL                       - REB
+
+COUNTERATTACK
+
+Defend THIS                   - REB
+Couch Fishing                 - REB
+The Rose                      - Uno de los hermanos de Matthew
+Smells Like Napalm...         - REB
+Cool Fusion                   - El otro hermano de Matt
+Flashback                     - REB
+Entryway                      - REB
+G4 Sunbathing                 - Mattias Borgström
+Blaspheme Quarantine          - Matthew Smith
+
+REPRISAL
+
+Bob-B-Q                       - REB
+Shake Before Using...         - Sidoh
+
+DURANDAL
+
+Fire!(x5)                     - Mattias Borgström
+Colony Ship For Sale, Cheap   - Candy
+Habe Quiddam                  - Candy/REB
+Neither High nor Low          - Candy
+A Good Way To Die...          - REB
+
+THE PFHOR
+
+Pfhor Your Eyes Only...       - Sidoh
+No Artificial Colors          - Sidoh/REB
+Unpfhorgiven                  - Candy
+Two Times Two Equals...       - Candy
+Low Flying Defense Drones...  - REB
+Euphoria                      - Candy
+Pfhoraphobia                  - REB
+Ain't Got Time Pfhor This     - REB
+
+REBELLION                     - Chris Komarnicki
+
+NIVELES DE INTERNET
+
+Mars Need Women               - Mattias Borgström
+Carnage Palace Deeee-Luxe     - Mattias Borgström
+5-D Space                     - Mattias Borgström
+Arena                         - Mattias Borgström
+E equals MC WHAT!!            - Mattias Borgström
+Showered With Grenades        - Mattias Borgström
+Spiral Insanity               - AlexJLS/REB
+Waldo World Arena             - Alex JLS
+What Goes Up, Must Come Down  - REB
+You don't need to see my I.D. - Chris Komarnicki
+
+OTRAS COSAS
+
+Adapte el archivo Shapes usando las Utilidades Two Shapes de Loren Petrich.
+
+Candace encuentro un bug en los Bobs asimilados cuando trabaja en Habe Quiddam y, en lugar de solo informarlo, ¡en realidad lo solucionó!
+
+Alex hizo la textura de la runa azul donde está parado el demonio de PID. También hizo una textura para la runa salvadora, bastante útil para una conversión de PiD.
+
+Mattias, el hombre que me presentó a Map Demerger, arregló la textura del azulejo azul de la colección de aguas residuales. Eso fue antes de reconstruir las colecciones de paredes desde cero.
+
+Matthew hizo un conjunto de iconos azules para el escenario e incluso preparó un clasificador de archivo, pero al final decidí no modificar la aplicación Aleph One (ahorrándome la molestia de lanzar una nueva versión cada vez que había una nueva versión de Aleph One) y usé los íconos originales M1. Matthew también trabajó en los sonidos originales.
+
+Peter de Blanc instaló QuickTime 2.5 en su máquina solo para extraer las pistas de fondo con su sonido original, y las convirtió en los mp3 cristalinos que has estado escuchando en el transcurso del escenario.
+
+REB
+#LOGOFF 1600
+GRACIAS POR JUGAR
+#ENDTERMINAL 3

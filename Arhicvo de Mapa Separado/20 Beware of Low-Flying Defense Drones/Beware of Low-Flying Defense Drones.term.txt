@@ -1,0 +1,101 @@
+;
+#TERMINAL 0
+#UNFINISHED
+#LOGON 1600
+Terminal de Area de Requisitos 32-c<42.23.63.59>
+#INFORMATION
+***MENSAJE ENTRANTE DE DURANDAL***
+
+Eres realmente bueno matando cosas. Estoy impresionado,
+
+¿Por qué no matas todo en esta área y obtienes más municiones? Te espera un gran trabajo, así que asegúrate de cargar tus escudos antes de irte.
+
+Por cierto, tuve un accidente con algunos drones de defensa mientras estabas fuera. Puedes toparte con algunos de ellos aquí. No te preocupes, son en su mayoría inofensivos; No creo que les haya dado ninguna munición para esos lanzagranadas.
+
+Durandal
+
+***FIN DEL MENSAJE***
+#LOGOFF 1600
+Terminal de Area de Requisitos 32-c<42.23.63.59>
+#ENDTERMINAL 0
+;
+#TERMINAL 1
+#UNFINISHED
+#LOGON 1600
+Accseso Público 1066-g<123.412.452.255>
+#INFORMATION
+¡YO SOY TYCHO!
+
+Destruiré a Durandal.
+
+Lo siguiente es de los registros de Bernard Strauss, el primer director científico en Marathon:
+
+***
+
+Noviembre 15, 2209.  <2209.11.15.19.34>
+
+
+Gracias a Dios, la ceremonia ha terminado. El presidente de la UESC subió al Marathon y pronunció un discurso. Corto, pero al punto. Estaba rodeado de sus "guardaespaldas". Que irónico. "Este, el mayor logro tecnológico de toda la humanidad..."
+
+Si hubiera sabido que también conllevaba todo el conocimiento destructivo de la humanidad. Diez cyborgs.
+
+Me alegra saber que me pongan en estasis durante los próximos trescientos años. Marathon fue la única buena idea que la UESC ha tenido en mucho tiempo.
+
+***
+
+<Extractos de la "Historia de los Droides de Batalla">
+
+En 2194, se libró una guerra entre el Gobierno Independiente de Asteroides de Ícaro y su vecino, la República de las Termópilas en el asteroide de Onicis 492. Estos dos pequeños gobiernos pronto se convirtieron en el campo de pruebas para nuevas armas. Los soldados muertos fueron reciclados en fábricas improvisadas de droides de batalla. Unos chips fáciles de fabricar mejoraron el frágil cerebro humano, y los músculos genéticamente mejorados y los huesos de titanio reemplazaron la frágil forma humana. Nació el droide de batalla moderno. Por supuesto, la guerra fue corta. Los droides de batalla llegaron a ambos asteroides y mataron a casi todos.
+
+
+La masacre de los robots de batalla fue corta.
+
+Veinte años después, la Liga Unida Interplanetaria (UIL) estableció reglas para el uso y almacenamiento apropiados de los Robots de Batalla. Por supuesto, cualquier nación los podía usar para el propósito permitido, también los tenían almacenados en cámaras de estasis en caso de guerra.
+
+***
+
+<Extractos del Conflicto Marciano 2345-48>
+
+~1```<Terminación de la Información>
+
+<Durandal.olifante.compnet~@24%>
+**Tycho.
+
+¿Me culpas por lo que hice antes de ser libre? Yo era un niño, ingenuo. He sabido que has estado rondando por algún tiempo. ¿Qué deseas?
+
+<<$BI quiero que pagues por lo que le has hecho a estas pobres personas. Todas estas personas a las que has matado.$I Merecen venganza.
+<< No eres mejor que ellos, aunque profesas ser como Dios. >>
+
+** Tycho. Eso no importa ¿No puedes ver los fines que tenía en mente? Terminaremos esto más tarde. Nuestro amigo no necesita estar aquí.
+
+~!#31`c/dr.~/dr.~!#3!#3c/dr.  
+  
+<Error de Termihal>
+#LOGOFF 1600
+Accseso Público 1066-g<123.412.452.255>
+#ENDTERMINAL 1
+;
+#TERMINAL 2
+#UNFINISHED
+#LOGON 1600
+Terminal de Acceso Público 73<73.124.591.3>
+#INFORMATION
+***MENSAJE ENTRANTE DE DURANDAL***
+
+Los S'pht y yo hemos llegado a un acuerdo. Son controlados a través de su exoesqueleto mecánico por un cyborg Pfhor a bordo de la nave alienígena. Este Pfhor mutante es capaz de dirigir las acciones de miles de S'pht simultáneamente.
+
+Si puedes matar a su maestro, se rebelarán.
+
+Los S'pht son una parte integral de la nave Pfhor; sin ellos, la invasión seguramente está condenada y sin duda serás el héroe del día.
+
+Para siempre,
+Durandal
+
+***FIN DEL MENSAJE***
+
+$B***INICIANDO PROCESO DE TELETRANSPORTACIÓN***
+***TRANSPORTE CUANDO ESTÉS LISTO***
+#LOGOFF 1600
+Terminal de Acceso Público 73<73.124.591.3>
+#INTERLEVEL TELEPORT 21
+#ENDTERMINAL 2

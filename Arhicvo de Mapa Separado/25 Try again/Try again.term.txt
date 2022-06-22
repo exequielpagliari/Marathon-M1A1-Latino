@@ -1,0 +1,104 @@
+;
+#TERMINAL 0
+#UNFINISHED
+#LOGON 1600
+@colección#593!=394<FC1.EA1.0395.AF6C>
+#INFORMATION
+
+$Badvertencia (#157) simbolo 'ingresarITarea' no está marcado como débil,
+pero su librería 'ioTarea' está
+advertencia (#157) símbolo 'acabarITarea' no está marcado como débil,
+pero su librería 'ioTarea' está
+advertencia (#157) símbolo 'nuevaITarea' no está marcado como débil,
+pero su librería 'ioTarea' está
+advertencia (#157) símbolo 'estadoITarea' no está marcado como débil,
+pero su librería 'ioTarea' está
+advertencia (#157) símbolo 'inactivaITarea' no está marcado como débil,
+pero su librería 'ioTarea' está
+error (#81) símbolo 'salidaITarea' indefinida
+ejecución de interfaz.cout.term.pub terminada$b
+
+(*&)&$%
+~~~~~~&>%*{La colonia ha sido aniquilada.  ¡Phhht! Justo así.hpe~~jy658[69l[il[70l
+-0oli77765~~uI%OI&%
+UHL^U_3kg
+os Pfhor son esclav``istas.  Su imperio comercial``````~ saltó a la fama poco después de que nosotros!!~ejamos la Tierra hace más de trescientos años.  ~~La marca Pfhor
+
+extensivo uso de razas clientes subordinadas para labores man``u`~~~ales en casa y como soldados en el extranjero. La mayoría de sus esclavos son tomados$Iee$i desde mundos de baja tecnología~~~~~~~l1p, a menudo por cientos de
+$^U*^*ILJEHJ~~~~~~~asfgk]86
+87;o bípedos de piel clara sin pelo, de casi dos metros de altura, con tres ojos rojos dispuestos en un patrón triangular\];POP""
+];R+IP+2441`4`
+Miles a la ve`~~~z, usualmente a la venta de razas de alta tecnología. 
+
+$@^(`~~~~~~unque ciertas razas ~`clientes a menudo son empleadas como soldados$I]\6f~fxf`~~fx!~$i, los Pfhor no tienen renuencia a luchar.
+
+<leela.wirehead.870229//b7>
+
+Termina la batalla
+#LOGOFF 1600
+@colección#593!=394<FC1.EA1.0395.AF6C>
+#ENDTERMINAL 0
+;
+#TERMINAL 1
+#UNFINISHED
+#LOGON 1600
+Terminal de Acceso Público 480-a<3.56.7.128>
+#INFORMATION
+***MENSAJE ENTRANTE @1``#64 LEELA***
+
+Debe derrotar al Pfhor. <Comienza el reformateo del núcleo> Pfhor 3stá respirando por última vezt#@596 ..
+
+Terminarlos.
+
+***FIN DEL MENSAJE***
+#LOGOFF 1600
+@colección#593!=394<FC1.EA1.0395.AF6C>
+#END
+#FINISHED
+#LOGON 1600
+@colección#593!=394<FC1.EA1.0395.AF6C>
+#INFORMATION
+
+***MENSAJE ENTRANTE DE LEELA**
+
+Debería estar más lúcida ahora, y me disculpo por mis divagaciones anteriores. La intromisión de Durandal ha seguido su curso y he vuelto a la normalidad. Ni él ni los infiltrados de S'pht descubrieron mi ubicación real en el núcleo, y aunque destruyeron casi todos los procesos de mi hijo, yo misma estoy ilesa.
+
+Nuestra preocupación más apremiante es por la nave y su tripulación, pero me siento obligada a compartir con ustedes que Durandal ha abandonado la nave. No puedo encontrarlo en ninguna parte de nuestra red, y los registros de tráfico durante la última media hora muestran sesenta y cuatro mil millones de exobytes transferidos y eliminados del Maratón.
+
+Estoy empezando a entender sus motivos para ayudarnos contra los Pfhor, y estoy aterrorizada por sus implicaciones.
+
+Hay una última incursión importante, y siento que los Pfhor se están rompiendo. Te llevaré allí. Debemos perseverar.
+
+***PREPÁRATE PARA EL TRANSPORTE***
+
+***END MESSAGE***
+
+$B***INICIANDO PROCESO DE TELETRANSPORTACIÓN***
+***TRANSPORTE CUANDO ESTÉS LISTO***
+#LOGOFF 1600
+@colección#593!=394<FC1.EA1.0395.AF6C>
+#INTERLEVEL TELEPORT 26
+#ENDTERMINAL 1
+;
+#TERMINAL 2
+#UNFINISHED
+#LOGON 1600
+BUNGIE CUARTELES GENERALES, CHICAGO
+#INFORMATION
+
+*** MENSAJE ENTRANTE DE BUNGIE ***
+
+Aquí hay algunas cosas interesantes para probar si nunca las descubriste:
+
+• $IPfhor Aereos.$i Siempre que dispares a cualquier cosa con municiones explosivas, apunta a sus pies.
+• $ITiempo Suspendido$i.  Apunta al suelo, corre hacia adelante y lanza una granada o misil.
+• $IVolando$i.  Cuando esté en baja gravedad en la nave alienígena, apunte hacia abajo y use el lanzallamas o el arma alienígena para "volar".
+• $ISaltando Paredes$i.  La aplicación correcta de granadas en los propios pies mientras se corre paralelo a una pared puede permitir a los jugadores "treparlas".
+• $IDescarga del hombre muerto$i.  Una pistola de fusión cargada se descarga cuando su dueño muere.
+• $ICasi invulnerabilidad$i. Jugadores "invencibles" pueden resultar heridos por la pistola de fusión.
+• $INosotros tenemos tono$i.  Las municiones guiadas no pueden rastrear jugadores invisibles.
+
+También hay otras cosas, pero no nos gustaría regalar $Itodos$i nuestros secretos...
+#LOGOFF 1600
+BUNGIE CUARTELES GENERALES, CHICAGO
+#ENDTERMINAL 2

@@ -1,0 +1,1 @@
+<marathon><!-- Niebla Azul para el Mirata --><!-- No hay niebla el espacio exterior --><opengl><fog on="true" type="0" depth="2" landscapes="false"><color red="0" green="0" blue="0.1"/></fog><fog on="false" type="1"></fog></opengl></marathon>

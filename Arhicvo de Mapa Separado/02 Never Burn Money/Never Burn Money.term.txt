@@ -1,0 +1,246 @@
+;
+#TERMINAL 0
+#UNFINISHED
+#LOGON 1600
+Terminal de Acceso Público 4-a<892.33.12.479>
+#INFORMATION
+***MENSAJE ENTRANTE DE LEELA***
+
+Los Sistemas de Fabricación Automática de Marathon han terminado de hacer circuitos de reemplazo. Hay tres circuitos; cada uno debe estar en su cámara de fabricación.
+
+Con suerte, los virus alienígenas no se han infiltrado en los Sistemas de Fabricación, pero incluso si lo hubieran hecho, no tendría forma de saberlo. Los ataques a mis sistemas son cada vez más constantes. Si el contraataque no puede eliminar algunos de los infiltrados de la computadora, finalmente sucumbiré.
+
+Es absolutamente imprescindible que comience un contraataque lo antes posible. Marathon no está indefenso, y no podemos permitir que se tome sin luchar.
+
+***FIN DEL MENSAJE***
+
+#PICT 1609
+Aquí es donde deberían estar los circuitos. Mira en todos los armarios de receptáculos.
+
+#PICT 1610
+Hay un Buffer de Patrones ubicado al lado de tu ubicación actual. Te sugiero que lo uses de inmediato
+
+#PICT 1611
+Una vez que hayas recuperado los circuitos, regresa a la terminal en este lugar y lo transportaré al Centro de Defensa para instalarlos.
+#LOGOFF 1600
+Terminal de Acceso Público 4-a<892.33.12.479>
+#ENDTERMINAL 0
+;
+#TERMINAL 1
+#UNFINISHED
+#LOGON 1600
+Terminal AMS 33-f<31.6.7.885>
+#INFORMATION
+$BSistemas de Fabricación Automática$b
+
+*Transferencia 5992-p retrasada
+
+*Transferencia 5993-p retrasada
+
+*Transferencia 5994-p retrasada
+
+*Transferencia 5995-p retrasada
+
+*Transferencia 5996-p retrasada
+
+*Transferencia 5997-p retrasada
+
+*Transferencia cancelada
+-Error de Systema de Transporte AMS
+***CAUSA DESCONOCIDA**
+
+*TRANSPORTE DE MATERIALES ENCENDIDO 
+CONTADOR DE INTER-TRANSFERENCIA
+
+
+***MENSAJE ENTRANTE DE LEELA***
+
+Tenia miedo de que esto pasara. Tendrás que ir a la Estación de Transporte de Fabricación para obtener la última placa de circuito.
+
+Recoge las dos placas de circuito que fueron transferidas y luego ve a la estación de transporte.
+
+#PICT 1612
+Toma el elevador aquí para acceder al túnel del procesador principal.
+
+#PICT 1613
+Debería encontrar el tercer chip intacto en la estación de transporte. El error fue un fallo del conductor del transportador final.
+
+***FIN DEL MENSAJE***
+
+#PICT 1614
+$B<Alerta>$b
+Violación de Segurida en <40.638.49.993>
+#LOGOFF 1600
+Terminal AMS 33-f<31.6.7.885>
+#ENDTERMINAL 1
+;
+#TERMINAL 2
+#UNFINISHED
+#LOGON 1600
+Terminal AMS 39-f<33.2.7.885>
+#INFORMATION
+***MENSAJE ENTRANTE DE LEELA***
+
+
+Debes recuperar los tres chips de reparación. No tiene sentido ir al Centro de Defensa a menos que tenga los tres.
+
+Busca hasta que los hayas encontrado.
+
+***FIN DEL MENSAJE***
+
+#LOGOFF 1600
+Terminal AMS 39-f<33.2.7.885>
+#END
+#FINISHED
+#LOGON 1600
+Terminal AMS 39-f<33.2.7.885>
+#INFORMATION
+***MENSAJE ENTRANTE DE LEELA***
+Buen Trabajo
+
+He recibido informes de algunas fuerzas de seguridad humana. Están de acuerdo en que los Aliens se están concentrando en la Sección de Ingeniería de popa. Conjeturaría que intentarán apagar los reactores de Marathon.
+
+Tu próxima misión será poner las Defensas Automáticas en línea. Te daré información exacta cuando llegues.
+
+Teletransporte cuando esté preparado
+
+***FIN DEL MENSAJE***
+
+
+$B***INICIANDO PROCESO DE TELETRANSPORTACIÓN***
+***TRANSPORTE CUANDO ESTÉS LISTO***
+#LOGOFF 1600
+Terminal AMS 39-f<33.2.7.885>
+#INTERLEVEL TELEPORT 3
+#ENDTERMINAL 2
+;
+#TERMINAL 3
+#UNFINISHED
+#LOGON 1600
+Terminal de Acceso Público 95-f<95.93.193.32>
+#INFORMATION
+$IPELIGRO: NÚCLEO OS (AF44+2DEB) MOD FECHA MÁS TARDE QUE LA ACTUAL FECHA/HORA
+
+ff~~x~f~sx~~
+%%%aquí no había nada que ganar de la vacilación ahora%&^)}:>?~~~~~~~fxf~~~~~~~~~~f~~~~
+toy en su poder
+
+se convertiría en algo de consecuencia: aunque no era más que un simp~le tho` ~~``f`~~~ rticular flor, o más preciso~.
+
+~~cuando lo tenía solo para que la habitación parpadeara y se desgarrara, doblándose en otro lugar:~~~ ffs`~~~~f ~~~[error de sistema # 25 en _Jackson]$i~~~~%*|\]~``que causó que fuera consumida por un fuego sin cenizas.
+
+las puertas se abrieron ante ella sin causa, sus cerraduras oxidadas y destrozadas#~#[>ff
+fxf~~~~~
+
+~~ntes de que sus manos delgadas comenzaran a bailar frente a su cara horrorizada. r~~ntes de convertirse en un polvo fino que se acumuló en una pila en~~~~4*)
+
+donde ella había estado parada.$B<'scod BFB1 0002'+1Ad2>$b
+14 
+a setecientas millas de distancia, con los ojos en llamas, desgarrándose el pelo. Volviéndose furiosa, pateó viciosamente
+iIra la hizo descuidada y ella perdió~#&fx~~~gBd{}{@fx($~~~~
+!#%8\
+~fxf~~~~fx
+34
+#LOGOFF 1600
+Terminal de Acceso Público 95-f<95.93.193.32>
+#ENDTERMINAL 3
+;
+#TERMINAL 4
+#UNFINISHED
+#LOGON 1600
+Terminal de Acceso Público 95-w<39.59.19.21>
+#INFORMATION
+
+<Transferencia de Datos por Leela>
+Host <39.59.19.21>
+<Transferencia Durandal>
+<Error Desconocido>
+
+<Transferencia Durandal>
+<Error Desconocido>
+
+<Error Interior>
+
+***MENSAJE RECIBIDO***
+
+Gheritt White había estado flotando a seis pies del suelo durante tres semanas. Sus pies y manos hormiguearon, y sus ojos ardieron con las llamas de un fuego moribundo. La última vez que escuchó a alguien hablar con él fue cuando la puerta de la celda se cerró de golpe. No recordaba lo que había dicho el hombre uniformado. Las palabras rebotaron en los barrotes de la celda y sonaron en los oídos de Gheritt. Gheritt había estado hablando consigo mismo durante los últimos minutos, algo sobre ser atrapado, pero luego sus oídos comenzaron a hormiguear como sus manos.
+
+
+Se miró las manos, pero el fuego en sus ojos lo hizo parpadear. Las lágrimas llegaron, y cuando volvió a abrir los ojos, sus manos se habían derretido en panqueques carnosos que flotaban en las ondas que fluían sobre el fuego en sus ojos.
+
+"Maldita celda", oyó que alguien decía. “La última vez que tuve una buena comida fue hace tres días. La comida que te dan de comer aquí podría matar a una rata de laboratorio.
+
+Ratas. Había recordado algo sobre las ratas. Pero sus oídos comenzaron a sonar de nuevo y la voz que le hablaba se desvaneció en el fondo de su mente. En su lugar, hubo un nuevo sonido, el aplauso de las manos. Parpadeó con fuerza para volver a distinguir sus manos. Habían desaparecido; sus brazos conectados a las muñecas.
+
+Pensó en el momento en que fue a patinar sobre hielo en un estanque. Recordaba el sonido de sus patines en el hielo, un suave roce. Raspando ahora dentro de sus oídos, tratando de derribar sus pensamientos. Había una mujer con un tubo de piel blanca sobre las manos. Sus muñecas eran como las de él ahora. Las muñecas de alguien que había intentado demasiadas veces aplaudir. Había estado aplaudiendo a todos los demás en la vida, pero nunca a sí mismo. Las manos, como él mismo, habían sido encarceladas, y no sabía por qué.
+
+"No puedo dormir aquí, si el olor de este saco de cama rancio no te enferma, entonces el sonido de las ratas masticando dentro de las paredes te mantendrá despierto". Te despertarás de tus sueños con sus pequeños mordiscos. A veces pienso que me están masticando... "La voz provenía del interior de la celda, pero Gheritt no podía ver a nadie.
+
+Gheritt no siempre había estado solo, podía recordar vagamente en algún lugar dentro de su mente rota que habían amigos, amantes, asesinos.
+
+
+Recordó una teoría que se le ocurrió después de una pelea sangrienta en la escuela. La teoría era simple. En algún momento, todos fueron asesinos. Ya sea que hayan sentido remordimiento o no, todos habían querido a alguien muerto. Odio. Todos conocían el sentimiento de odio. Gheritt había conocido el odio en el patio de la escuela. Su golpeador se había reído de sus rostros ensangrentados, una risa que ahora resonaba en sus oídos, bloqueando rítmicamente la otra voz en la celda.
+
+El patio de la escuela solía ser un lugar donde Gheritt y sus amigos jugaban al fútbol o al foursquare o algo así, pero hoy había una ventaja. Tal vez todos habían comido cereal con leche que estaba a punto de deteriorarse, o tal vez había demasiado humo en el aire de la fábrica de tazas. El fútbol había sido extremadamente duro. Gheritt se había ido a jugar a Foursquare después de que cinco chicos lo enfrentaron y no eran sus amigos. Pero hoy, incluso Foursquare tuvo un giro malvado. El equipo favorito hoy se había acostumbrado a burlarse del primer equipo. Gheritt decidió que era un día malo. Cuando su golpeador comenzó a empujarlo, explotó. El odio fluyó de sus ojos, sus manos y pies comenzaron a hormiguear. Toda su coordinación lo abandonó, y su rostro fue golpeado hasta convertirse en un desastre sangriento. La disciplinaria del patio de la escuela tardó en darse cuenta de la carnicería que siguió, y de todos modos no le importó.
+
+Gheritt lo habría matado si hubiera podido. Habría arrancado los ojos de su golpeador. Le habría hecho pagar por sus abusos. Pero sus manos habían comenzado a hormiguear. No podía sentir sus pies y había comenzado a flotar en el suelo.
+
+Todos eran asesinos, pero Gheritt no podía recordar su razón de por qué era así. Pensó que era algo sobre las manos, la pasión por la justicia. Sus manos y pies habían comenzado a hormiguear, y estaba flotando más lejos del piso. Levantó la vista de sus manos y vio los barrotes de la celda, moviéndose de izquierda a derecha, abriéndose y cerrándose, como el oleaje que sube a la playa. Cada vez que pensaba que estaría a salvo, los barrotes se elevaban, la apertura se cerraba, la ola subía y se estrellaba. El resultado sería el mismo, él nunca escaparía. Las barras lo aplastarían, le romperían la espalda.
+
+Podía sentir la aspereza de la arena debajo de sus palmas, a pesar del movimiento de las olas a su alrededor, sus manos habían descansado serenamente sobre el fondo del océano. Su cuerpo se sacudió y giró, girando alrededor de sus manos debajo de las cuales podía sentir la arena gruesa y segura. La ola se estrelló una última vez, aterrizó boca abajo, con las manos despejadas del fondo arenoso, el torrente de agua llenó sus oídos, su nariz, su boca, el sonido del agua cayendo en cascada desde sus pies hasta su cabeza. penetrando en su mente para derribar pensamientos. Al igual que el castillo de arena que había construido para soportar la marea, sus pensamientos cayeron a su alrededor.
+
+Gheritt tenía una buena vida, tanto tiempo, tanto tiempo. Le había encantado nadar, girar, golpear. Le había encantado el cosquilleo en sus manos y pies, su incapacidad para matar a su némesis. Una vez que se había caído por las escaleras, y solo por un momento, sus manos descansaron sobre la alfombra de las escaleras. En ese instante, su cuerpo se congeló, flotando sobre las escaleras, a salvo de caerse, pero el momento no duró. El océano se estrelló a su alrededor, sus manos arrancadas del fondo arenoso, su cuerpo volteándose, cayendo.
+
+Pero ahora él levitó más arriba, sus manos aún hormigueando. Comenzó a flotar a través de las barras, esperaba el instante de seguridad cuando sus manos encontraron equilibrio, pero ese momento no llegó, las barras apretaron su cuerpo. Su pecho hormigueó. Cuando cayó a través de su jaula, sus piernas hormiguearon. El fuego en sus ojos se había convertido en un viento frío, él se apartó las lágrimas. Giró a través de los barrotes, girando y girando, pudo ver a un hombre. En su mano vio una pequeña rata blanca. Un golpeteo, las olas rompiendo en sus oídos se volvieron rítmicas, duras. El hombre golpeaba a la rata contra el suelo. Golpeando, golpeando. La sangre cubrió sus manos, las manos del hombre hormiguearon. Los había roto en el piso de la celda. Disciplinar, amante, asesino. Gheritt volvió a mirar a la celda. Se vio a sí mismo, disciplinario, amante, asesino. Había matado a su némesis. La rata yacía muerta en sus manos ensangrentadas. Por fin, sostuvo la garganta de su golepador.
+
+Escapó entre las olas.
+
+Las olas
+
+***FIN DEL MENSAJE***
+
+<Aceptar Siguiente Mensaje>
+<Respuesta Desconocida>
+#LOGOFF 1600
+Terminal de Acceso Público 95-w<39.59.19.21>
+#ENDTERMINAL 4
+;
+#TERMINAL 5
+#UNFINISHED
+#LOGON 1600
+Terminal AMS 39-f<33.2.7.885>
+#INFORMATION
+***MENSAJE ENTRANTE DE LEELA***
+
+
+Debes recuperar los tres chips de reparación. No tiene sentido ir al Centro de Defensa a menos que tenga los tres.
+
+Busca hasta que los hayas encontrado.
+
+***FIN DEL MENSAJE***
+
+#LOGOFF 1600
+Terminal AMS 39-f<33.2.7.885>
+#END
+#FINISHED
+#LOGON 1600
+Terminal AMS 39-f<33.2.7.885>
+#INFORMATION
+***MENSAJE ENTRANTE DE LEELA***
+Buen Trabajo
+
+He recibido informes de algunas fuerzas de seguridad humana. Están de acuerdo en que los Aliens se están concentrando en la Sección de Ingeniería de popa. Conjeturaría que intentarán apagar los reactores de Marathon.
+
+Tu próxima misión será poner las Defensas Automáticas en línea. Te daré información exacta cuando llegues.
+
+Teletransporte cuando esté preparado
+
+***FIN DEL MENSAJE***
+
+
+$B***INICIANDO PROCESO DE TELETRANSPORTACIÓN***
+***TRANSPORTE CUANDO ESTÉS LISTO***
+#LOGOFF 1600
+Terminal AMS 39-f<33.2.7.885>
+#INTERLEVEL TELEPORT 3
+#ENDTERMINAL 5

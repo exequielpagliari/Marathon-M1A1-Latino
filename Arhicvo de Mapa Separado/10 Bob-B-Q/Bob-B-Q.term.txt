@@ -1,0 +1,35 @@
+;
+#TERMINAL 0
+#UNFINISHED
+#LOGON 1600
+Terminal de Acceso Público<78.39.3.91>
+#INFORMATION
+***MENSAJE ENTRANTE DE LEELA***
+
+No has completado tu misión. No regrese hasta que el destacamento de seguridad esté seguro y el área esté libre de extraterrestres.
+#LOGOFF 1600
+Terminal de Acceso Público<78.39.3.91>
+#END
+#FINISHED
+#LOGON 1600
+Terminal de Acceso Público<78.39.3.91>
+#INFORMATION
+***MENSAJE ENTRANTE DE LEELA***
+
+Dejaste morir a demasiados miembros de la tripulación. Has fallado en tu misión.
+
+No puedo obtener ninguna información útil de los rescatados.&2`
+
+Debemos evitar la amenaza Pfhor a la sección de Ingeniería. Voy a enviarte a primario re~Cuenta Marcada=>$BPrimer Pensamiento$b $U#49$u.
+Debes limpiar el área de todos los alienígenas antes de que destruyan los Reactores primarios.
+
+~[p[]]*kc3sla/.U
+
+***MENSAJE INTERRUMPIDO***
+
+$B***INICIANDO PROCESO DE TELETRANSPORTACIÓN***
+***TRANSPORTE CUANDO ESTÉS LISTO***
+#LOGOFF 1600
+Terminal de Acceso Público<78.39.3.91>
+#INTERLEVEL TELEPORT 11
+#ENDTERMINAL 0

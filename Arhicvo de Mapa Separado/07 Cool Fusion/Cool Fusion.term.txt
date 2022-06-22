@@ -1,0 +1,85 @@
+;
+#TERMINAL 0
+#UNFINISHED
+#LOGON 1600
+Terminal de Acceso Público <46.02.32.55>
+#INFORMATION
+***MENSAJE ENTRANTE DE LEELA***
+
+Ha habido una calma inesperada en la lucha. No sé exactamente por qué, pero parece que los alienígenas han detenido su avance. Quiero usar este descanso en la lucha para enviar un mensaje a la Tierra informándoles de nuestra situación.
+
+
+Sin embargo, la matriz del transmisor de largo alcance ha sido destruido y debe restablecerse manualmente el transmisor secundario. Para hacer esto, deberás ingresar a la Estación de Aterrizaje Estelar G-4.
+
+Sería insensato enviarte a condiciones de vacío sin un mejor armamento capaz de funcionar en el vacío%29SC^7 además que tu pistola. El AR-75 no funciona en vacío.
+
+
+
+
+
+
+
+
+Quiero que encuentres una pistola Zeus Clase Fusión. Tiene dos modos de disparo. El disparo estándar expulsa hi$U#2423#Bfjrf$u volts, y el modo de disparo secundario carga $B<transmission error>$b para expulsar una explosión de energía que causa una gran cantidad de daño.
+
+ @t $#cY B.    Ex
+ @t Y#C9 B.  
+ @t $Y#9 B.  excepción
+
+$B<evitanto tráfico>
+#PICT 1630
+Mis registros y sensores son cada vez menos confiables, pero creo que deberías encontrar una pistola Zeus Clase Fusión en esta ubicación.
+
+No confíes demasiado en esta información que te he dado. Ha sido interceptado en la transmisión, y no puedo verificar su precisión.
+
+***FIN DEL MENSAJE***
+#LOGOFF 1600
+Terminal de Acceso Público <46.02.32.55>
+#ENDTERMINAL 0
+;
+#TERMINAL 1
+#UNFINISHED
+#LOGON 1600
+Terminal de Acceso Público 34-f<83.91.117.223>
+#INFORMATION
+***MENSAJE ENTRANTE DE LEELA***
+
+No has recuperado la Pistola de Fusión. Regresa cuando lo hayas hecho.
+
+
+$B~~~423@34'..$I<ERROR DE MEMORIA IMPLANTADA>538*99(**//`1>?Dyrand$ball&6734spu$eriainterru457&04431`]\\]tipo de error%7quetwuee2$Bunable to54*&8787@!11`!```~~~respaldo orgánico$b48uy988+/~22@ormadevidabasadaencarbonoso457&85~~~nelsuelto@@@45899r9$i
+
+#LOGOFF 1600
+Terminal de Acceso Público 34-f<83.91.117.223>
+#INTERLEVEL TELEPORT 27
+#END
+#FINISHED
+#LOGON 1600
+Terminal de Acceso Público 34-f<83.91.117.223>
+#INFORMATION
+***MENSAJE ENTRANTE DE LEELA***
+
+He obtenido más informes de la tripulación que rescataste antes.
+
+
+Han informado haber visto dos tipos de Pfhor que aún no has encontrado. Evidentemente, estos son dos de los otros "clanes" a los que Durandal aludió en comunicaciones anteriores.
+
+Uno es más alto que los luchadores. Curiosamente, el informe indicó que este nuevo Pfhor disparó solo contra otros Pfhor y nunca contra ningún humano. Debido a esto y su apariencia general, la tripulación que los vio se refirió a ellos como Ejecutores.
+
+El otro Alien fue nombrado Cazador por la tripulación debido a su tamaño y apariencia. Dispara un arma de energía desde su hombro y está fuertemente blindado. A diferencia de los Luchadores, los Cazadores nunca toman prisioneros.
+
+Te estoy enviando a la Estación de Aterrizaje Estelar G-4
+
+
+En espera para teletransportarse.
+
+***FIN DEL MENSAJE***$B
+
+***INICIANDO PROCESO DE TELETRANSPORTACIÓN - ERROR***
+
+***INICIANDO PROCESO DE TELETRANSPORTACIÓN***
+***TRANSPORTE CUANDO ESTÉS LISTO***$b
+#LOGOFF 1600
+Terminal de Acceso Público 34-f<83.91.117.223>
+#INTERLEVEL TELEPORT 8
+#ENDTERMINAL 1

@@ -1,0 +1,103 @@
+;
+#TERMINAL 0
+#UNFINISHED
+#LOGON 1600
+Nivel 29-b Sección 10 Terminal de Acceso Público<102.21.521.146>
+#INFORMATION
+***MENSAJE ENTRANTE DE LEELA***
+
+Ahora estoy en contacto con varios colonos del planeta, pero sus informes sobre la situación allá son contradictorios y obviamente exagerados. La antena de radio primaria de medio alcance ha sido desactivada o destruida, lo que hace que la comunicación sea extremadamente difícil.
+
+Lo único que parece claro es que el puerto espacial fue destruido por armas nucleares de bajo rendimiento minutos después de que comenzara el ataque al Marathon. Esto lo puedo verificar a mediante mis propios instrumentos ópticos.
+
+Los invasores parecen estar más interesados ??en Marathon que en la colonia, al menos a corto plazo. Sin embargo, todavía se desconocen los motivos detrás de su ataque no provocado.
+
+
+#PICT 1605
+Esta es la Terminal que está utilizando ahora. No puedo teletransportarte fuera de esta sección desde aquí, así que tendrás que salir por otra terminal después de encontrar el rifle de asalto.
+
+#PICT 1606
+Hay un Fusil de Asalto M-75/Lanzagranadas y municiones en esta ubicación. Al disparar en la configuración totalmente automática, esta arma es muy inexacta, pero las granadas golpean con fuerza y ??es lo mejor que podemos hacer en este momento. Las municiones pueden ser escasas por un tiempo, así que prepárate para volver a tu pistola.
+
+#PICT 1607
+Aquí está la terminal a la que debe llegar para salir de esta sección. La infiltración alienígena en esta área es alta; procede con precaución. Puedes encontrar puertas bloqueadas o escaleras retraídas en el camino, porque la IA que controla estas funciones está dañada y se comporta de manera errática.
+
+***END OF MESSAGE***
+#LOGOFF 1600
+Nivel 29-b Sección 10 Terminal de Acceso Público<102.21.521.146>
+#ENDTERMINAL 0
+;
+#TERMINAL 1
+#UNFINISHED
+#LOGON 1600
+Terminal de Acceso Público 2362-d<12.53.2111.42>
+#INFORMATION
+<$BAcceso no autorizado$b-alarma 2521->
+<Violación de Seguridad 2362-d<12.53.2117.42>->
+
+
+Documentos de Ingeniería Interna de Marathon.
+Sección 1-c apéndice H
+
+Sujeto: Puertas
+Por:  Estasia Orestes, Dominick I. Plackar, y Ursa Simbalzi
+Fecha: <2402.03.23.16.42>
+
+Hay cinco diseños de puertas usadas en Marathon:
+1. Puertas Exteriores de Mamparo
+2. Puertas Exclusas
+3. Puertas Mamparos Interiores
+4. Puertas terciarias o selladas internamente al vacío
+5. Puertas automáticas de apertura automática cuaternarias o internas
+
+El control directo de todas las puertas, excepto las terciarias y cuaternarias, se otorgará a Durandal con el control indirecto de todas las demás puertas que van a Durandal. La diferencia entre el control directo e indirecto tiene que ver principalmente con la forma de abrir las puertas. Durandal solo abrirá una puerta controlada directamente cuando se le solicite específicamente que lo haga. Las puertas controladas indirectamente son controladas automáticamente por Durandal para abrirse cuando sea necesario.
+
+Sin embargo, debido al gasto que conlleva agregar sensores de espectro térmico y visual a los grupos de puertas Terciario y Cuaternario, estas puertas se utilizarán mínimamente. Se estima que el ahorro esperado de no usar esta información sensorial adicional es del cincuenta y siete por ciento del costo base de la puerta interna de mamparo básica.
+
+
+Los tipos de puertas son básicamente iguales con algunas ligeras variaciones. Las puertas en las clases 1 y 3 son las mismas puertas clasificadas por separado para distinguir entre el nivel de verificación de seguridad requerido para asegurar fugas aceptables. Las puertas de la esclusa de aire están específicamente modificadas para funcionar con interruptores de activación manual y remota. Las esclusas de aire deben estar marcadas con un símbolo de esclusa de aire específico y estar equipadas con un sistema de recarga de aire.
+
+
+Las puertas terciarias y cuaternarias están diseñadas exactamente como las puertas de mamparo, pero se verifican de manera ordinaria para detectar fugas de aire.
+
+
+Este artículo, así como los artículos 530-f y 532-g sobre ventanas y ascensores, respectivamente, se colocarán para el acceso público en la sección 1-c del apéndice H en los Documentos de Ingeniería Interna de Marathon.
+
+<$BInterrupción Spurio- Irrupción Desecativada$b>
+<$BAccseo Futuro Denegado$b>
+
+#PICT 1608
+$B<Alerta>$b 
+$BViolación de Seguridad en Terminal 2362-d$b<12.53.2111.42>
+#LOGOFF 1600
+Terminal de Acceso Público 2362-d<12.53.2111.42>
+#ENDTERMINAL 1
+;
+#TERMINAL 2
+#UNFINISHED
+#LOGON 1600
+Terminal de Acceso Público <101.532.74.95>
+#INFORMATION
+
+***MENSAJE ENTRANTE DE LEELA***
+
+Las defensas automáticas de Marathon fueron desactivadas durante el ataque inicial por un pulso magnético dirigido. Los alienígenas usaron la misma arma para desactivar las otras dos IA del Marathon, Durandal y Tycho, y para dañarme gravemente.
+
+
+Durandal es responsable de controlar las funciones autónomas de la nave: puertas, soporte vital, cocinas, reprocesadores de aire, escaleras, etc. Debido a que no es funcional, estoy trabajando para asumir tantas de estas tareas como sea posible. Tycho controla la red de ciencia e ingeniería.
+
+
+Ahora que estás mejor armado, nuestra primera prioridad es reactivar las defensas de Marathon, bajo mi control, para que podamos ofrecer cierta resistencia a los alienígenas. He construido tres placas de circuito de reemplazo para el sistema de defensa, pero no puedo moverlas desde el centro de fabricación sin ayuda.
+
+
+Ahora te transportaré para recuperar las piezas de repuesto y te daré más instrucciones cuando llegues.
+
+
+***END OF MESSAGE***
+
+$B***INICIANDO PROCESO DE TELETRANSPORTACIÓN***
+***TRANSPORTE CUANDO ESTÉS LISTO***
+#LOGOFF 1600
+Terminal de Acceso Público <101.532.74.95>
+#INTERLEVEL TELEPORT 2
+#ENDTERMINAL 2

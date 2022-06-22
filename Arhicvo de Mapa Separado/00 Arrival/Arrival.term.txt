@@ -1,0 +1,114 @@
+;
+#TERMINAL 0
+#UNFINISHED
+#LOGON 1600
+Exclusa 34-a Terminal de Acceso <Puerto 19.1.2.128>
+#INFORMATION
+<Mensaje a todas las terminales en Marathon>
+
+$BTransmisión desde los sistemas de emergencia de Marathon$b
+
+Hoy a las 0820 horas, Marathon sufrió un ataque sorpresa de fuerzas hostiles desconocidas. Marathon ha sufrido graves daños.
+
+A las 0830 horas, fuerzas alienigenas abordaron Marathon.  La actual situación es grave.  Todo el personal debe armarse y luchar por sus vidas.
+<Publicado 2794.7.3.14.08.39>
+
+***MENSAJE ENTRANTE DE LEELA***
+
+Bienvenido a Marathon.  Yo soy Leela, una de las dos Inteligencias Artificiales sobrevivientes abordo de Marathon.  He sufrido un daño severo, y estoy trabajando para comprender la situación actual.
+
+Encuentra la terminal de teletransporte ubicada en la sala de control del Hangar.  Para entonces, debería tener una mejor idea de lo que está sucediendo.
+
+***FIN DEL MENSAJE***
+#PICT 1601
+Aquí es donde estás ahora.  Desde aquí puedes explorar el resto del área del Hangar, aunque no todas las puertas de ese nivel funcionan.
+#PICT 1602
+Hay un Buffer de Patrones  en esta ubicación. 
+#PICT 1603
+Hay un punto de teletransportación en esta ubicación.  Activa la terminal para dejar el área del Hangar.
+#LOGOFF 1600
+Exclusa 34-a Terminal de Acceso <Puerto 19.1.2.128>
+#ENDTERMINAL 0
+;
+#TERMINAL 1
+#UNFINISHED
+#LOGON 1600
+Area-5 del Hangar Acceso a Ingeniería 50-h<291.7.577.456>
+#INFORMATION
+
+<$BAcceso no autorizado$b-alarma 2521->
+<Violación de Seguridad 50-h<291.7.577.456>->
+
+$U*$u0001010$B4A80$b600A2F0C4EBA182E4A80584F2E00BC876700FF46202EFE4*3AEFE4A2F0C2F074EBA1DC672FFB280504F6700079d4202EFE4E6000079*E70012D40FE52722AB2866610202EFE5253AEFE52101B4880
+^^ $US$egún la teoría de Fire son los siguientes: cada sociedad tiene alguna fuerza o fuerzas de control que deciden su dirección, pero las relaciones en la sociedad son arbitrarias: la humanidad puede relacionarse con el dinero, las máquinas, los vecinos, cualquier cosa realmente; $I%6582@1$i
+
+$I<reset lógico @67FC229>$i
+el carácter individual y la personalidad se conservan en historias, películas, Memoria de Personalidad, etc.; aunque la expresión individual es una habilidad universal, la libertad individual está limitada por la sociedad (ver figura adjunta) ^^
+*584F2E00206DFDCA7008C0307800$B66C$b6202EFE4A53AEFE4A2F0C2F074E
+*BA1E2$uA72FFB280504F6690600007F67025B086660E101B488048C02C00
+$I<reset lógico @67FC231>$i
+
+<$BInterrupción Espurio$b- $IIncumplimiento Deshabilitado$i>
+<$Futuro Acceso Denegado>
+
+<$BLocación de Incumplimiento Indeterminada$b>
+#LOGOFF 1600
+Area-5 del Hangar Acceso a Ingeniería 50-h<291.7.577.456>
+#ENDTERMINAL 1
+;
+#TERMINAL 2
+#UNFINISHED
+#LOGON 1600
+Area-5 del Hangar Acceso a Ingeniería 49-h<294.2.577.456>
+#INFORMATION
+
+<$BAcceso no autorizado$b-alarma 2521->
+<Violación de Seguridad 49-h<294.2.577.456>->
+
+18RF(kgf42# f#h %34(*,96693 349973@) f$Uk$ueoocp)
+
+$U*$u00011010111$B011101$b11000111101110101110110101011
+*10011$I000011101001$i01001001001001000010100101111
+*1001000101011110100101010101000001001000101110
+
+00$B0$b00378003E000007FE0032000011AE00080001$BAF$b420000
+06726F636B65742$B1$b00000000000000000672$B6$bF636B657421
+0000000000000000
+
+<$BInterrupción Espurio$b- $IIncumplimiento Deshabilitado$i>
+<$Futuro Acceso Denegado>
+
+#PICT 1604
+$B<Alerta>  $b
+Violación de Seguridad en <294.2.577.456>
+
+#LOGOFF 1600
+Area-5 del Hangar Acceso a Ingeniería 49-h<294.2.577.456>
+#ENDTERMINAL 2
+;
+#TERMINAL 3
+#UNFINISHED
+#LOGON 1600
+Área del Hangar 5 Terminal de Punto de Teletransporte<93.53.211.53>
+#INFORMATION
+
+***MENSAJE ENTRANTE DE LEELA***
+
+
+Toda la información que he reunido hasta ahora indica que la invasión alienígena en Marathon ha sido relativamente descoordinada. Sospecho que esto se debe en parte al gran tamaño de Marathon.
+
+Por desordenada que sea la invasión alienígena, su asalto a la red informática ha sido extremadamente efectivo. Detecto brechas de seguridad en casi todos los sistemas informáticos a bordo; He aprendido que hay una criatura alienígena que es capaz de interactuar con nuestros sistemas.
+
+
+Debes matar a cualquiera de estas criaturas que encuentres. Es una prioridad que los detengamos. Incluso ahora, están penetrando mis defensas.
+
+Teletranspórtate ahora.
+
+***Fin del Mensaje***
+
+$B***INICIANDO PROCESO DE TELETRANSPORTACIÓN***
+***TRANSPORTE CUANDO ESTÉ LISTO***
+#LOGOFF 1600
+Área del Hangar 5 Terminal de Punto de Teletransporte<93.53.211.53>
+#INTERLEVEL TELEPORT 1
+#ENDTERMINAL 3
