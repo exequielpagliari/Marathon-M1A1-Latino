@@ -16,9 +16,6 @@ Este AddOn de Marathon 1 M1A1 es una versión de demostración sobre el proyecto
 |Presionar New Game y disfrutar :)|
 
 
-
-Presionar New Game y disfrutar :)
-
 =Características=
 
 Marathon M1A1 Latino tiene modificadas las terminales de todos los niveles. Faltan las imágenes de capítulos y epílogos.
