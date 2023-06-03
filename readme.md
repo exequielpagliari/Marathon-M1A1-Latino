@@ -6,7 +6,7 @@ Este AddOn de Marathon 1 M1A1 es una versión de demostración sobre el proyecto
 
 =Instalación de Marathon M1A1 Latino=
 
-Descargar archivo Zip de este AddOn más abajo
+Descargar archivo Zip de este AddOn que está en el apartado de Release, en el menú a la derecha de este texto.
 
 Descargar Marathon M1A1 de aquí: http://files3.bungie.org/trilogy/M1A1.zip
 
