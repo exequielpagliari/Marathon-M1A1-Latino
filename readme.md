@@ -4,7 +4,7 @@ Versión 0.4
 
 Este AddOn de Marathon 1 M1A1 es una versión de demostración sobre el proyecto de traducción a Español que estamos llevando a cabo. Se modificaron los textos de terminales por fanáticos de la saga que se congregaron con el fin de lograr generar un puente entre el juego y la comunidad iberoamericana.
 
-
+### =Instalación de Marathon M1A1 =
 | Guía de Instalación|
 |---------------|
 |Descargar archivo Zip de este AddOn que está en Release|
