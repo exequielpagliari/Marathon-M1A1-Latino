@@ -4,21 +4,18 @@ Versión 0.4
 
 Este AddOn de Marathon 1 M1A1 es una versión de demostración sobre el proyecto de traducción a Español que estamos llevando a cabo. Se modificaron los textos de terminales por fanáticos de la saga que se congregaron con el fin de lograr generar un puente entre el juego y la comunidad iberoamericana.
 
-=Instalación de Marathon M1A1 Latino=
 
-Descargar archivo Zip de este AddOn que está en el apartado de Release, en el menú a la derecha de este texto.
+| Guía de Instalación|
+|---------------|
+|Descargar archivo Zip de este AddOn que está en Release|
+|Descargar Marathon M1A1 de aquí: http://files3.bungie.org/trilogy/M1A1.zip|
+|Descomprimir ambos archivos Zip y copiar el archivo Map a la carpeta de Marathon M1A1.|
+|Reemplazar si se quiere no conservar el archivo anterior de mapas en inglés.|
+|Seleccionar desde el menú de Preferences el item Enviroment y luego Maps.|
+|Seleccionar el Mapa que copiamos.|
+|Presionar New Game y disfrutar :)|
 
-Descargar Marathon M1A1 de aquí: http://files3.bungie.org/trilogy/M1A1.zip
 
-También debes descargar AlephOne solo desde la página https://alephone.lhowon.org/ y colocarlo dentro de la carpeta de M1A1 que descargaste anteriormente.
-
-Descomprimir ambos archivos Zip y copiar el archivo “M1A1 Map Latino.sceA“ a la carpeta de Marathon M1A1.
-
-Reemplazar si se quiere no conservar el archivo anterior de mapas en inglés.
-
-Seleccionar desde el menú de Preferences el item Enviroment y luego “M1A1 Map Latino.sceA”.
-
-Seleccionar el Mapa que copiamos.
 
 Presionar New Game y disfrutar :)
 
