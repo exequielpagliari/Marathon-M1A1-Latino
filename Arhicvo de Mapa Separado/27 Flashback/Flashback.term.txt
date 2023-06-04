@@ -193,7 +193,9 @@ $C3Ahora Volvemos A Nuestra Invasión Regular
 #UNFINISHED
 #LOGON 1600
 $C3Terminal de Acceso Restringido<26.97.820.74>
-#INFORMACIÓN
+
+#INFORMATION
+
 
 
 

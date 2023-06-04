@@ -1,14 +1,16 @@
+Revición de programación hecha el 4/6/2023 Funcionando
+
 00 Arrival
 	Terminal 0 OK
 	Terminal 1 OK
 	Terminal 2 OK
 	Terminal 3 OK
 01 Bigger Guns Nearby
-	Terminal 4
-	Terminal 5
-	Terminal 6
+	Terminal 4 OK
+	Terminal 5 OK
+	Terminal 6 OK
 02 Never Burn Money
-	Terminal 7
+	Terminal 7 Modificado Terminal
 	Terminal 8
 	Terminal 9
 	Terminal 10

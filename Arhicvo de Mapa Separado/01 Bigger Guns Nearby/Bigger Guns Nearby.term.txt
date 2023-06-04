@@ -36,7 +36,6 @@ Terminal de Acceso Público 2362-d<12.53.2111.42>
 <$BAcceso no autorizado$b-alarma 2521->
 <Violación de Seguridad 2362-d<12.53.2117.42>->
 
-
 Documentos de Ingeniería Interna de Marathon.
 Sección 1-c apéndice H
 
@@ -55,12 +54,9 @@ El control directo de todas las puertas, excepto las terciarias y cuaternarias, 
 
 Sin embargo, debido al gasto que conlleva agregar sensores de espectro térmico y visual a los grupos de puertas Terciario y Cuaternario, estas puertas se utilizarán mínimamente. Se estima que el ahorro esperado de no usar esta información sensorial adicional es del cincuenta y siete por ciento del costo base de la puerta interna de mamparo básica.
 
-
 Los tipos de puertas son básicamente iguales con algunas ligeras variaciones. Las puertas en las clases 1 y 3 son las mismas puertas clasificadas por separado para distinguir entre el nivel de verificación de seguridad requerido para asegurar fugas aceptables. Las puertas de la esclusa de aire están específicamente modificadas para funcionar con interruptores de activación manual y remota. Las esclusas de aire deben estar marcadas con un símbolo de esclusa de aire específico y estar equipadas con un sistema de recarga de aire.
 
-
 Las puertas terciarias y cuaternarias están diseñadas exactamente como las puertas de mamparo, pero se verifican de manera ordinaria para detectar fugas de aire.
-
 
 Este artículo, así como los artículos 530-f y 532-g sobre ventanas y ascensores, respectivamente, se colocarán para el acceso público en la sección 1-c del apéndice H en los Documentos de Ingeniería Interna de Marathon.
 
@@ -85,12 +81,9 @@ Terminal de Acceso Público <101.532.74.95>
 
 Las defensas automáticas de Marathon fueron desactivadas durante el ataque inicial por un pulso magnético dirigido. Los alienígenas usaron la misma arma para desactivar las otras dos IA del Marathon, Durandal y Tycho, y para dañarme gravemente.
 
-
 Durandal es responsable de controlar las funciones autónomas de la nave: puertas, soporte vital, cocinas, reprocesadores de aire, escaleras, etc. Debido a que no es funcional, estoy trabajando para asumir tantas de estas tareas como sea posible. Tycho controla la red de ciencia e ingeniería.
 
-
 Ahora que estás mejor armado, nuestra primera prioridad es reactivar las defensas de Marathon, bajo mi control, para que podamos ofrecer cierta resistencia a los alienígenas. He construido tres placas de circuito de reemplazo para el sistema de defensa, pero no puedo moverlas desde el centro de fabricación sin ayuda.
-
 
 Ahora te transportaré para recuperar las piezas de repuesto y te daré más instrucciones cuando llegues.
 
