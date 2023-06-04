@@ -19,6 +19,7 @@ Gracias, Jason (Dec. 18, 1994 1:57am.)
 PD. En caso de que te lo estés preguntando, nunca podrás encontrar la copia pirata de Copland en Marathon. Ese elemento solía ser un arma que sacamos tarde en el desarrollo (la copia de Windows NT fue su munición), pero que encontrará su camino en la Actualización de red para Marathon.
 #LOGOFF 1600
 Terminal de Acceso Público 47-a<102.21.521.146>
+#END
 #ENDTERMINAL 0
 ;
 #TERMINAL 1
@@ -45,4 +46,5 @@ Jason (Marzo 17, 1997 4:39pm)
 #LOGOFF 1600
 Terminal de Acceso Público 56-c<93.53.211.53>
 #INTERLEVEL TELEPORT 16
+#END
 #ENDTERMINAL 1

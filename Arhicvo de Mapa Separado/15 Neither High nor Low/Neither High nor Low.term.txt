@@ -33,6 +33,7 @@ T-Menos 15.193792102158E+9 años hasta que el universo se cierre!
 ***FIN DEL MENSAJE***
 #LOGOFF 1600
 Terminal de Acceso Público 39-f<13.19.31.37>
+#END
 #ENDTERMINAL 0
 ;
 #TERMINAL 1
@@ -57,4 +58,5 @@ $B***INICIANDO PROCESO DE TELETRANSPORTACIÓN***
 #LOGOFF 1600
 Terminal de Acceso Público 13-n<3.47.391.30>
 #INTERLEVEL TELEPORT 16
+#END
 #ENDTERMINAL 1

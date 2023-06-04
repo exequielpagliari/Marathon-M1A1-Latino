@@ -1,8 +1,8 @@
 00 Arrival
-	Terminal 0
-	Terminal 1
-	Terminal 2
-	Terminal 3
+	Terminal 0 OK
+	Terminal 1 OK
+	Terminal 2 OK
+	Terminal 3 OK
 01 Bigger Guns Nearby
 	Terminal 4
 	Terminal 5

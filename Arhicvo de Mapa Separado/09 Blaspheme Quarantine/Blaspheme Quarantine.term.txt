@@ -46,6 +46,7 @@ Durandal
 ***END MESSAGE***
 #LOGOFF 1600
 Terminal Científica 236-g<33.6792.23.91>
+#END
 #ENDTERMINAL 0
 ;
 #TERMINAL 1
@@ -132,6 +133,7 @@ $B***INICIANDO PROCESO DE TELETRANSPORTACIÓN***
 LOGOFF 1600
 Terminal de Sala de Control de Laboratorio de Cuarentena 321-a(293.610.31.995>
 #INTERLEVEL TELEPORT 10
+#END
 #ENDTERMINAL 1
 ;
 #TERMINAL 2
@@ -144,6 +146,7 @@ Estacion de Ciencia 43-c<63.67.21.49>
 Los S´pht me reanimaron a su imagen, con conocimiento previo de cómo podría posponerse la segunda etapa. No deberías haberles ayudado tanto como lo hiciste; Han creado un adversario más poderoso que tú.
 #LOGOFF 1600
 Estacion de Ciencia 43-c<63.67.21.49>
+#END
 #ENDTERMINAL 2
 ;
 #TERMINAL 3
@@ -164,4 +167,5 @@ $B***INICIANDO PROCESO DE TELETRANSPORTACIÓN***
 #LOGOFF 1600
 Terminal de Ccceso Público<9.42.857.10>
 #INTERLEVEL TELEPORT 10
+#END
 #ENDTERMINAL 3

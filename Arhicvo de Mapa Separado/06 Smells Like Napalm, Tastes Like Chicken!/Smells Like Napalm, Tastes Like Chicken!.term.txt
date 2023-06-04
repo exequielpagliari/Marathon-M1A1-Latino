@@ -24,6 +24,7 @@ Esta es la segunda puerta que debes sellar. Nuevamente, asegúrate de que se cie
 ***FIN DEL MENSAJE***
 #LOGOFF 1600
 Terminal de Acceso Médico<39.569.18.194>
+#END
 #ENDTERMINAL 0
 ;
 #TERMINAL 1
@@ -52,6 +53,7 @@ $I<error en modo trazado>
 <$Violación con Locacion Indeterminada>
 #LOGOFF 1600
 Terminal de Acceso Público 49-z<3.67.299.492>
+#END
 #ENDTERMINAL 1
 ;
 #TERMINAL 2
@@ -69,6 +71,7 @@ Vale,
 Durandal
 #LOGOFF 1600
 Acceso de Servicio 31-b<39.592.29.95>
+#END
 #ENDTERMINAL 2
 ;
 #TERMINAL 3
@@ -107,4 +110,5 @@ $B***INICIANDO PROCESO DE TELETRANSPORTACIÓN***
 #LOGOFF 1600
 Terminal de Acceso Público 65-a<65.92.31.49>
 #INTERLEVEL TELEPORT 7
+#END
 #ENDTERMINAL 3

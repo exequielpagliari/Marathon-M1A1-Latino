@@ -25,6 +25,7 @@ Aquí está la terminal a la que debe llegar para salir de esta sección. La inf
 ***END OF MESSAGE***
 #LOGOFF 1600
 Nivel 29-b Sección 10 Terminal de Acceso Público<102.21.521.146>
+#END
 #ENDTERMINAL 0
 ;
 #TERMINAL 1
@@ -71,6 +72,7 @@ $B<Alerta>$b
 $BViolación de Seguridad en Terminal 2362-d$b<12.53.2111.42>
 #LOGOFF 1600
 Terminal de Acceso Público 2362-d<12.53.2111.42>
+#END
 #ENDTERMINAL 1
 ;
 #TERMINAL 2
@@ -100,4 +102,5 @@ $B***INICIANDO PROCESO DE TELETRANSPORTACIÓN***
 #LOGOFF 1600
 Terminal de Acceso Público <101.532.74.95>
 #INTERLEVEL TELEPORT 2
+#END
 #ENDTERMINAL 2

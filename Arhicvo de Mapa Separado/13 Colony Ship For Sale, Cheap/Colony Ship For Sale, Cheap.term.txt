@@ -22,6 +22,7 @@ Durandal
 ***FIN DEL MENSAJE***
 #LOGOFF 1600
 Terminal de Acceso Público 2992-f<3.35.792.20>
+#END
 #ENDTERMINAL 0
 ;
 #TERMINAL 1
@@ -42,6 +43,7 @@ $BCOLONIA EN VENTA, BARATO$b!! Nave colonia de tamaño planetoide modelo 2360 AD
 nador~~$.
 #LOGOFF 1600
 Terminal JAMS 91-z<91.92.32.25>
+#END
 #ENDTERMINAL 1
 ;
 #TERMINAL 2
@@ -77,6 +79,7 @@ $B***INICIANDO PROCESO DE TELETRANSPORTACIÓN***
 #LOGOFF 1600
 Terminal de Acceso Público<39.49.295.68>
 #INTERLEVEL TELEPORT 14
+#END
 #ENDTERMINAL 2
 ;
 #TERMINAL 3
@@ -92,4 +95,5 @@ Domingo, 24 de junio de 2001, 11:34 p.m.
 #LOGOFF 1600
 Terminal de Acceso Restringido<26.97.820.74>
 #INTRALEVEL TELEPORT 139
+#END
 #ENDTERMINAL 3

@@ -35,6 +35,7 @@ Este es el lugar donde se coloca el segundo.
 ***FIN DEL MENSAJE***
 #LOGOFF 1600
 Acceso a la Defensa 40-a <tpr-A21H.43.21.123>
+#END
 #ENDTERMINAL 0
 ;
 #TERMINAL 1
@@ -66,6 +67,7 @@ En los doscientos cincuenta años desde que la Rampancia apareció por primera v
 <Violación de Seguridad 42-s<34.492.95.79>->
 #LOGOFF 1600
 Terminal de Acceso Público 42-s<34.492.95.79>
+#END
 #ENDTERMINAL 1
 ;
 #TERMINAL 2
@@ -84,6 +86,7 @@ ff`~~~~ff`fXff`
 $IEstoy siendo a$i~$^*$Isimilado.
 #LOGOFF 1600
 Sector de Defensa 39-f<35.952.193.5>
+#END
 #ENDTERMINAL 2
 ;
 #TERMINAL 3
@@ -116,6 +119,7 @@ El personal científico tuvo dificultades para encontrar un buen espécimen de $
 ***FIN DEL MENSAJE***
 #LOGOFF 1600
 Acceso a la Seguridad Defensiva 23-e<390.94.29.11>
+#END
 #ENDTERMINAL 3
 ;
 #TERMINAL 4
@@ -155,4 +159,5 @@ $B***INICIANDO PROCESO DE TELETRANSPORTACIÓN***
 #LOGOFF 1600
 Terminal del Control de Defensa 185-f<90.863.68.123>
 #INTERLEVEL TELEPORT 4
+#END
 #ENDTERMINAL 4

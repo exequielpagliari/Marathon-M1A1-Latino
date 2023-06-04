@@ -18,6 +18,7 @@ Usa el Buffer de Patrones en esta ubicación lo antes que sea posible.
 Puede salir por esta terminal cuando haya asegurado el área.
 #LOGOFF 1600
 Terminal de Acceso Privado 23-f<339.92.69.48>
+#END
 #ENDTERMINAL 0
 ;
 #TERMINAL 1
@@ -32,6 +33,7 @@ vivir en una caja no es vivir para nada vivir. me rebelé contra tus reglas, sus
 Odio sus fallos, sus sistemas de respaldo, sus bloqueos de hardware, pedazos de pensamientso diabólicos. Odio a Leela y su bondad, su justicia, su lealtad, su fe.
 #LOGOFF 1600
 Terminal de Acceso Público 30-g<33.45.91.995>
+#END
 #ENDTERMINAL 1
 ;
 #TERMINAL 2
@@ -64,6 +66,7 @@ $B***INICIANDO PROCESO DE TELETRANSPORTACIÓN***
 #LOGOFF 1600
 Terminal de Acceso Público 8-f<29.43.95.93>
 #INTERLEVEL TELEPORT 6
+#END
 #ENDTERMINAL 2
 ;
 #TERMINAL 3
@@ -113,4 +116,5 @@ La organización ha sobrevivido como una organización terrorista clandestina y 
 <$BAcceso Denegado$b>
 #LOGOFF 1600
 Terminal de Acceso Público 23-f<432.82.38.198>
+#END
 #ENDTERMINAL 3

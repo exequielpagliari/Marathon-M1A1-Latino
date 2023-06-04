@@ -35,6 +35,7 @@ No confíes demasiado en esta información que te he dado. Ha sido interceptado 
 ***FIN DEL MENSAJE***
 #LOGOFF 1600
 Terminal de Acceso Público <46.02.32.55>
+#END
 #ENDTERMINAL 0
 ;
 #TERMINAL 1
@@ -82,4 +83,5 @@ En espera para teletransportarse.
 #LOGOFF 1600
 Terminal de Acceso Público 34-f<83.91.117.223>
 #INTERLEVEL TELEPORT 8
+#END
 #ENDTERMINAL 1

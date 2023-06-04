@@ -26,6 +26,7 @@ $C4QUEE MIER***A!!$C0
 #LOGOFF 1600
 $C3Por favor sígame...
 #INTRALEVEL TELEPORT 127
+#END
 #ENDTERMINAL 0
 ;
 #TERMINAL 1
@@ -55,6 +56,7 @@ Metete conmigo, hermano mayor ...
 #LOGOFF 1600
 $C3Por favor sígame...
 #INTRALEVEL TELEPORT 114
+#END
 #ENDTERMINAL 1
 ;
 #TERMINAL 2
@@ -78,6 +80,7 @@ $C4MALDITA SEAAA!
 #LOGOFF 1600
 $C3Por favor sígame...
 #INTRALEVEL TELEPORT 132
+#END
 #ENDTERMINAL 2
 ;
 #TERMINAL 3
@@ -103,6 +106,7 @@ $C4Woh...!
 #LOGOFF 1600
 $C3Por favor sígame...
 #INTRALEVEL TELEPORT 119
+#END
 #ENDTERMINAL 3
 ;
 #TERMINAL 4
@@ -128,6 +132,7 @@ $C4AH!!$C0
 #LOGOFF 1600
 $C3Por favor sígame...
 #INTRALEVEL TELEPORT 125
+#END
 #ENDTERMINAL 4
 ;
 #TERMINAL 5
@@ -147,6 +152,7 @@ $C4Aaaaaaa!
 #LOGOFF 1600
 $C3Por favor sígame...
 #INTRALEVEL TELEPORT 69
+#END
 #ENDTERMINAL 5
 ;
 #TERMINAL 6
@@ -180,6 +186,7 @@ $C3Continuará en Marathon...
 #LOGOFF 1600
 $C3Ahora Volvemos A Nuestra Invasión Regular
 #INTERLEVEL TELEPORT 8
+#END
 #ENDTERMINAL 6
 ;
 #TERMINAL 7
@@ -219,4 +226,5 @@ Domingo, Sep 29, 2002, 4:49 PM
 #LOGOFF 1600
 $C3Terminal de Acceso Restringido<26.97.820.74>
 #INTERLEVEL TELEPORT 29
+#END
 #ENDTERMINAL 7

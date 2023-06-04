@@ -10,7 +10,7 @@ $BTransmisión desde los sistemas de emergencia de Marathon$b
 
 Hoy a las 0820 horas, Marathon sufrió un ataque sorpresa de fuerzas hostiles desconocidas. Marathon ha sufrido graves daños.
 
-A las 0830 horas, fuerzas alienigenas abordaron Marathon.  La actual situación es grave.  Todo el personal debe armarse y luchar por sus vidas.
+A las 0830 horas, fuerzas alienígenas abordaron Marathon.  La actual situación es grave.  Todo el personal debe armarse y luchar por sus vidas.
 <Publicado 2794.7.3.14.08.39>
 
 ***MENSAJE ENTRANTE DE LEELA***
@@ -28,6 +28,7 @@ Hay un Buffer de Patrones  en esta ubicación.
 Hay un punto de teletransportación en esta ubicación.  Activa la terminal para dejar el área del Hangar.
 #LOGOFF 1600
 Exclusa 34-a Terminal de Acceso <Puerto 19.1.2.128>
+#END
 #ENDTERMINAL 0
 ;
 #TERMINAL 1
@@ -54,6 +55,7 @@ $I<reset lógico @67FC231>$i
 <$BLocación de Incumplimiento Indeterminada$b>
 #LOGOFF 1600
 Area-5 del Hangar Acceso a Ingeniería 50-h<291.7.577.456>
+#END
 #ENDTERMINAL 1
 ;
 #TERMINAL 2
@@ -84,6 +86,7 @@ Violación de Seguridad en <294.2.577.456>
 
 #LOGOFF 1600
 Area-5 del Hangar Acceso a Ingeniería 49-h<294.2.577.456>
+#END
 #ENDTERMINAL 2
 ;
 #TERMINAL 3
@@ -111,4 +114,5 @@ $B***INICIANDO PROCESO DE TELETRANSPORTACIÓN***
 #LOGOFF 1600
 Área del Hangar 5 Terminal de Punto de Teletransporte<93.53.211.53>
 #INTERLEVEL TELEPORT 1
+#END
 #ENDTERMINAL 3

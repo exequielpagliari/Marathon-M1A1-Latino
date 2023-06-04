@@ -22,6 +22,7 @@ Love and kisses,
 Durandal
 #LOGOFF 1600
 Terminal de Acceso Público 2-e<17.7.23.47>
+#END
 #ENDTERMINAL 0
 ;
 #TERMINAL 1
@@ -55,6 +56,7 @@ Queremos agradecer a nuestros padres y a nuestros antepasados y al sol que se vo
 ***FIN DEL MENSAJE***
 #LOGOFF 1600
 EQUIPO BUNGIE, CHICAGO
+#END
 #ENDTERMINAL 1
 ;
 #TERMINAL 2
@@ -78,6 +80,7 @@ La nave Pfhor desapareció hace unos veinte minutos, después de ventilar casi m
 #LOGOFF 1600
 Terminal de Acceso Público 39-z<34.6.31.12>
 #INTERLEVEL TELEPORT 256
+#END
 #ENDTERMINAL 2
 ;
 #TERMINAL 3
@@ -235,4 +238,5 @@ Peter de Blanc instaló QuickTime 2.5 en su máquina solo para extraer las pista
 REB
 #LOGOFF 1600
 GRACIAS POR JUGAR
+#END
 #ENDTERMINAL 3

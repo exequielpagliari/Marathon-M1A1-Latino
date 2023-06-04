@@ -37,6 +37,7 @@ $@^(`~~~~~~unque ciertas razas ~`clientes a menudo son empleadas como soldados$I
 Termina la batalla
 #LOGOFF 1600
 @colección#593!=394<FC1.EA1.0395.AF6C>
+#END
 #ENDTERMINAL 0
 ;
 #TERMINAL 1
@@ -78,6 +79,7 @@ $B***INICIANDO PROCESO DE TELETRANSPORTACIÓN***
 #LOGOFF 1600
 @colección#593!=394<FC1.EA1.0395.AF6C>
 #INTERLEVEL TELEPORT 26
+#END
 #ENDTERMINAL 1
 ;
 #TERMINAL 2
@@ -101,4 +103,5 @@ Aquí hay algunas cosas interesantes para probar si nunca las descubriste:
 También hay otras cosas, pero no nos gustaría regalar $Itodos$i nuestros secretos...
 #LOGOFF 1600
 BUNGIE CUARTELES GENERALES, CHICAGO
+#END
 #ENDTERMINAL 2
