@@ -3,7 +3,8 @@
 #UNFINISHED
 #LOGON 1600
 Terminal de Acceso Público 47-a<102.21.521.146>
-#INFORMACION
+
+#INFORMATION
 Hey tu, mirando a través de mi bifurcación de recursos:
 
 Debido a limitaciones de tiempo, muchas de las partes interesantes de Marathon (es decir, los textos, las pantallas de capítulos, etc.) no se cifraron como lo hice en el pasado con Minotaur o Pathways. Esto también facilita la globalización.
@@ -26,7 +27,8 @@ Terminal de Acceso Público 47-a<102.21.521.146>
 #UNFINISHED
 #LOGON 1600
 Terminal de Acceso Público 56-c<93.53.211.53>
-#INFORMACION
+
+#INFORMATION
 ¿Tú otra vez?
 
 Dos años y medio después de la codificación salvaje Blitzkrieg que creó Marathon, estoy de vuelta aquí eliminando la protección del número de serie para el lanzamiento de la trilogía. Sin fuente.
